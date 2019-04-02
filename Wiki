@@ -1,0 +1,10 @@
+Nom components grup: 
+
+- Daniel Curulla Ferre
+- Laura Guzman Boy
+
+Descripció fitxers:
+
+- Document "Respostes": document pdf amb les respostes a les preguntes i els noms dels components del grup.
+- Carpeta "Python": codi Pyhton/ R generat per obtenir les dades.
+- Fitxer csv "dades": Fitxer que conté les dades extretes.

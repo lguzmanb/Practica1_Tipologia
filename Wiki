@@ -11,4 +11,4 @@ Descripció dels fitxers:
 
 - Document "Respostes": Document pdf amb les respostes a les preguntes i els noms dels components del grup.
 - Fitxer "Python": codi Pyhton generat per obtenir les dades.
-- Fitxer csv "dades": Fitxer que conté les dades extretes.
+- Fitxer csv "cadires_ikea": Fitxer que conté les dades extretes.

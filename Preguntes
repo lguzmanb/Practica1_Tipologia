@@ -8,9 +8,13 @@ Explicar per què el lloc web triat proporciona aquesta informació.
 2. Definir un títol pel dataset. 
 Triar un títol que sigui descriptiu.
 
+Cadires_ikea 
+
 3. Descripció del dataset. 
 Desenvolupar una descripció breu del conjunt de dades que s'ha extret (és necessari que aquesta descripció tingui sentit amb el títol triat).
 
+En el dataset s'hi troben les dades extretes de la pàgina web d'Ikea en relació a les cadires.
+Al dataset hi ha el nom de la cadira, el tipus de producte (cadira, tamburet..) i el preu del producte. 
 
 4. Representació gràfica. 
 Presentar una imatge o esquema que identifiqui el dataset visualment
@@ -18,11 +22,19 @@ Presentar una imatge o esquema que identifiqui el dataset visualment
 5. Contingut. 
 Explicar els camps que inclou el dataset, el període de temps de les dades i com s'ha recollit.
 
+Al dataset hi ha el nom de la cadira, el tipus de producte (cadira, tamburet..) i el preu del producte.
+
+
 6. Agraïments.
 Presentar el propietari del conjunt de dades. És necessari incloure cites de recerca o anàlisis anteriors (si n'hi ha).
+Ikea.
 
 7. Inspiració. 
 Explicar per què és interessant aquest conjunt de dades i quines preguntes es pretenen respondre.
+
+Gràcies a aquest conjunt de dades es poden saber els productes que té ikea i els seus preus actuals. 
+Aquest dataset és interessant per als venedors de cadires, ja que es poden comparar els preus segons el tipus de producte. 
+
 
 8. Llicència. 
 Seleccionar una d'aquestes llicències pel dataset resultant i explicar el motiu de la seva selecció:

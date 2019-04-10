@@ -10,5 +10,5 @@ Components del grup:
 Descripció dels fitxers:
 
 - Document "Respostes": Document pdf amb les respostes a les preguntes i els noms dels components del grup.
-- Carpeta "Python": codi Pyhton/ R generat per obtenir les dades.
+- Fitxer "Python": codi Pyhton generat per obtenir les dades.
 - Fitxer csv "dades": Fitxer que conté les dades extretes.

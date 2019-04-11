@@ -36,6 +36,8 @@ Presentar una imatge o esquema que identifiqui el dataset visualment
 5. Contingut. 
 Explicar els camps que inclou el dataset, el període de temps de les dades i com s'ha recollit.
 
+Descriure codi i com s'arriba als resultats
+
 Al dataset hi ha el nom de la cadira, el tipus de producte (cadira, tamburet..) i el preu del producte.
 
 Les dades s'han recollit a partir d'un codi generat de web scrapping. 

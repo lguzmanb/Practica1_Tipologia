@@ -1,1283 +1,1709 @@
-nom_producte,tipus_subproducte,preu_producte
+nom_producte,tipus_subproducte,preu_producte,url_producte,descripcio_producte
 TRANARÖ,"
         Taburete/mesa auxiliar int/ext,
-          ",15€
-TEODORES,"
-        Silla",20€
-TEODORES,"
-        Silla",20€
-ADDE,"
-        Silla",10€
-VOLFGANG,"
-        Silla",50€
-NORDMYRA,"
-        Silla","29,99€"
-AGEN,"
-        Silla","39,99€"
-RENBERGET,"
-        Silla giratoria","49,99€"
-JANINGE,"
-        Silla","29,99€"
-VOLFGANG,"
-        Silla",50€
-GUNDE,"
-        Silla plegable",7€
-BAKLÄ,"
-        Sillón",129€
-INGOLF,"
-        Silla",50€
+          ",15€,https://www.ikea.com/es/es/p/tranaro-taburete-mesa-auxiliar-int-ext-rojo-10411421/,"
+          Utiliza la solución multiusos TRANARÖ como taburete, mesa auxiliar o mesilla de noche, o pon 2 juntas para hacer una mesa de centro. Es muy fácil de llevar de un sitio a otro y da un toque de color a las los espacios, tanto interiores como exteriores.
+          "
+TÄNKVÄRD,"
+        Banco",119€,https://www.ikea.com/es/es/p/tankvard-banco-30429383/,
+BUSKBO,"
+        Sillón",129€,https://www.ikea.com/es/es/p/buskbo-sillon-ratan-70434311/,
 FANBYN,"
-        Silla",59€
-EKEDALEN,"
-        Silla",50€
-MILLBERGET,"
-        Silla giratoria","69,99€"
-MARKUS,"
-        Silla de trabajo",159€
-INGOLF,"
-        Taburete alto,
-          ",69€
-NISSE,"
-        Silla plegable",9€
-TERJE,"
-        Silla plegable","12,99€"
-ODGER,"
-        Silla",69€
-VOLFGANG,"
-        Silla","49,99€"
-STEFAN,"
-        Silla",20€
-EKEDALEN,"
-        Silla",50€
+        Silla",59€,https://www.ikea.com/es/es/p/fanbyn-silla-gris-s59284638/,
+ULRIKSBERG,"
+        Sillón",99€,https://www.ikea.com/es/es/p/ulriksberg-sillon-ratan-antracita-90434310/,
+NORRÅKER / RÖNNINGE,"
+        Mesa y dos sillas,
+          ",237€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-dos-sillas-abedul-verde-s39297255/,
+NORRÅKER / NORRARYD,"
+        Mesa de bar+2 taburetes bar,
+          ",327€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-bar-2-taburetes-bar-abedul-negro-s89297272/,
+BEKVÄM,"
+        Taburete escalón,
+          ","12,99€",https://www.ikea.com/es/es/p/bekvam-taburete-escalon-haya-60178887/,"
+          Resulta muy útil para guardar cosas en zonas altas. Este taburete escalón, además de ser muy bonito, va muy bien para llegar a la parte superior de los armarios.
+          "
+NORDMYRA,"
+        Silla","29,99€",https://www.ikea.com/es/es/p/nordmyra-silla-blanco-abedul-60351311/,
+RENBERGET,"
+        Silla giratoria","49,99€",https://www.ikea.com/es/es/p/renberget-silla-giratoria-bomstad-negro-20339420/,"
+          Al ser cómoda y ligera, no te costará nada moverla de sitio. Las ruedas cuentan con un mecanismo de frenado que mantiene la silla en su sitio cuando te levantas y se desactiva al sentarte.
+          "
+DAGOTTO,"
+        Reposapiés","14,99€",https://www.ikea.com/es/es/p/dagotto-reposapies-negro-40240989/,
+BEKVÄM,"
+        Taburete escalón,
+          ","19,99€",https://www.ikea.com/es/es/p/bekvam-taburete-escalon-blanco-40178888/,"
+          Resulta muy útil para guardar cosas en zonas altas. Este taburete escalón, además de ser muy bonito, va muy bien para llegar a la parte superior de los armarios.
+          "
+TEODORES,"
+        Silla",20€,https://www.ikea.com/es/es/p/teodores-silla-blanco-90350937/,"
+          Una silla cómoda, resistente, ligera y apilable. Combina fácilmente con mesas y sillas de diferentes estilos, y encaja perfectamente en el comedor, en la entrada o el dormitorio.
+          "
 GUNDE,"
-        Silla plegable",7€
-TOBIAS,"
-        Silla",59€
-ODGER,"
-        Silla",69€
-NISSE,"
-        Silla plegable",10€
+        Silla plegable",7€,https://www.ikea.com/es/es/p/gunde-silla-plegable-blanco-60217799/,
+AGEN,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/agen-silla-ratan-bambu-50058376/,
+INGOLF,"
+        Silla",50€,https://www.ikea.com/es/es/p/ingolf-silla-blanco-70103250/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+PELLO,"
+        Sillón","32,99€",https://www.ikea.com/es/es/p/pello-sillon-holmby-natural-50078464/,
+TEODORES,"
+        Silla",20€,https://www.ikea.com/es/es/p/teodores-silla-naranja-claro-00358023/,"
+          Una silla cómoda, resistente, ligera y apilable. Combina fácilmente con mesas y sillas de diferentes estilos, y encaja perfectamente en el comedor, en la entrada o el dormitorio.
+          "
 KOLON,"
         Protector de suelo,
-          ","19,99€"
+          ","19,99€",https://www.ikea.com/es/es/p/kolon-protector-suelo-44881100/,"
+          Una solución práctica para poner debajo de la silla de tu hijo en la mesa de comedor o debajo de tu silla de trabajo y proteger así el suelo de salpicaduras, suciedad y el desgaste. Al ser transparente, deja ver el suelo o la alfombra.
+          "
+NISSE,"
+        Silla plegable",9€,https://www.ikea.com/es/es/p/nisse-silla-plegable-negro-30115066/,"
+          Una silla ligera y fácil de sacar y desplegar cuando vienen invitados. Fácil de plegar y guardar cuando no se necesita.
+          "
+MARIUS,"
+        Taburete",4€,https://www.ikea.com/es/es/p/marius-taburete-blanco-90184047/,
+ANTILOP,"
+        Trona con cinturón de seguridad",15€,https://www.ikea.com/es/es/p/antilop-trona-con-cinturon-seguridad-blanco-gris-plata-s89041709/,"
+          La trona ANTILOP es fácil de mover de sitio y transportar, de modo que tu hijo podrá comer sentado en una silla segura y estable tanto en casa como fuera. ¡Buen apetito!
+          "
+ANTILOP,"
+        Silla alta con bandeja",19€,https://www.ikea.com/es/es/p/antilop-silla-alta-con-bandeja-gris-plata-blanco-gris-plata-s29067293/,"
+          La trona ANTILOP es fácil de mover de sitio y transportar, de modo que tu hijo podrá comer sentado en una silla segura y estable tanto en casa como fuera. ¡Buen apetito!
+          "
+STEFAN,"
+        Silla",20€,https://www.ikea.com/es/es/p/stefan-silla-negro-marron-00211088/,"
+          Una silla resistente de madera maciza, que se adapta a los retos del día a día. Combina con la mayor parte de los estilos y puedes completarla con un cojín para mayor comodidad.
+          "
+JOKKMOKK,"
+        Mesa con 4 sillas",119€,https://www.ikea.com/es/es/p/jokkmokk-mesa-con-4-sillas-tint-envj-50211104/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+ADDE,"
+        Silla",10€,https://www.ikea.com/es/es/p/adde-silla-negro-90214285/,
+EKEDALEN,"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-blanco-orrsta-gris-claro-60341015/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+VOLFGANG,"
+        Silla",50€,https://www.ikea.com/es/es/p/volfgang-silla-cromado-gunnared-gris-80404672/,"
+          Un asiento mullido, acolchado y flexible que te permite descansar y relajarte incluso si permaneces sentado durante mucho tiempo. Los taburetes y sillas de comedor VOLFGANG son igual de cómodos.
+          "
+MILLBERGET,"
+        Silla giratoria","69,99€",https://www.ikea.com/es/es/p/millberget-silla-giratoria-bomstad-negro-90339412/,
+FROSTA,"
+        Taburete",10€,https://www.ikea.com/es/es/p/frosta-taburete-contrachapado-abedul-24286205/,
+IVAR,"
+        Silla",20€,https://www.ikea.com/es/es/p/ivar-silla-pino-90263902/,
+BEKVÄM,"
+        Taburete escalón,
+          ","19,99€",https://www.ikea.com/es/es/p/bekvam-taburete-escalon-negro-30178884/,"
+          Resulta muy útil para guardar cosas en zonas altas. Este taburete escalón, además de ser muy bonito, va muy bien para llegar a la parte superior de los armarios.
+          "
+FLINTAN,"
+        Silla de trabajo","69,99€",https://www.ikea.com/es/es/p/flintan-silla-trabajo-vissle-gris-20336836/,
+MARIUS,"
+        Taburete",4€,https://www.ikea.com/es/es/p/marius-taburete-negro-10135659/,
+SNILLE,"
+        Silla giratoria","19,99€",https://www.ikea.com/es/es/p/snille-silla-giratoria-blanco-s79046260/,
+LANGUR,"
+        Funda acolchada trona",10€,https://www.ikea.com/es/es/p/langur-funda-acolchada-trona-amarillo-30346986/,
+FANBYN,"
+        Silla",59€,https://www.ikea.com/es/es/p/fanbyn-silla-blanco-s49228474/,
 JANINGE,"
-        Silla","29,99€"
-NORRARYD,"
-        Silla",59€
+        Silla","29,99€",https://www.ikea.com/es/es/p/janinge-silla-blanco-00246078/,"
+          Ante el reto de resolver la ecuación de combinar diseño, función y calidad en una silla, nuestros diseñadores crearon JANINGE. Es lo suficientemente duradera como para usarla en un restaurante y tiene un diseño que te quieres llevar a casa.
+          "
+STOCKHOLM 2017,"
+        Sillón con cojines",199€,https://www.ikea.com/es/es/p/stockholm-2017-sillon-con-cojines-ratan-rostanga-blanco-s99207129/,"
+          Artesanía de calidad en ratán natural con un tamaño generoso y un diseño sencillo. Queda bien solo o combinado con el armario y la mesita de centro a juego de la serie STOCKHOLM.
+          "
+MOLTE,"
+        Silla de escritorio",15€,https://www.ikea.com/es/es/p/molte-silla-escritorio-gris-20292776/,
+BEKVÄM,"
+        Escalera, 3 peldaños,
+          ","29,99€",https://www.ikea.com/es/es/p/bekvam-escalera-3-peldanos-haya-90190411/,"
+          Resulta muy práctico guardar las cosas en sitios altos, pero a veces no es fácil llegar a ellas. Esta escalera, además de bonita, va muy bien para llegar a la parte más alta de los armarios.
+          "
+TERJE,"
+        Silla plegable","12,99€",https://www.ikea.com/es/es/p/terje-silla-plegable-blanco-80222441/,"
+          Ideal para el rincón del desayuno o para cuando necesites sillas extra. El agujero del respaldo te permite colgarla en la pared y liberar espacio cuando no la uses.
+          "
 INGOLF,"
-        Silla",50€
+        Taburete alto,
+          ",69€,https://www.ikea.com/es/es/p/ingolf-taburete-alto-blanco-00121766/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+TERJE,"
+        Silla plegable","12,99€",https://www.ikea.com/es/es/p/terje-silla-plegable-negro-00222440/,"
+          Ideal para el rincón del desayuno o para cuando necesites sillas extra. El agujero del respaldo te permite colgarla en la pared y liberar espacio cuando no la uses.
+          "
+MARTIN,"
+        Silla","19,99€",https://www.ikea.com/es/es/p/martin-silla-negro-blanco-s09219532/,
 BOSSE,"
         Taburete alto,
-          ","29,99€"
-MARTIN,"
-        Silla","19,99€"
-TERJE,"
-        Silla plegable","12,99€"
-EKEDALEN,"
-        Silla",50€
-SOLSTA OLARP,"
-        Sillón",89€
+          ","29,99€",https://www.ikea.com/es/es/p/bosse-taburete-alto-abedul-70087212/,
+GUNDE,"
+        Silla plegable",7€,https://www.ikea.com/es/es/p/gunde-silla-plegable-negro-00217797/,
 INGOLF,"
-        Silla",50€
-FROSTA,"
-        Taburete",10€
-RÖNNINGE,"
-        Silla",79€
-MARTIN,"
-        Silla","19,99€"
-BALTSAR,"
-        Silla",129€
-ODGER,"
-        Silla",69€
-NORRARYD,"
-        Taburete alto,
-          ",89€
-RÖNNINGE,"
-        Silla",79€
-MARIUS,"
-        Taburete",4€
-FLINTAN,"
-        Silla de trabajo","69,99€"
-DAGOTTO,"
-        Reposapiés","14,99€"
-FJÄLLBERGET,"
-        Silla sala de juntas",159€
-INGOLF,"
-        Taburete alto,
-          ",69€
-IVAR,"
-        Silla",20€
-ANTILOP,"
-        Trona con cinturón de seguridad",15€
-TERJE,"
-        Silla plegable","12,99€"
-EKEDALEN,"
-        Silla",50€
-YPPERLIG,"
-        Sillón",79€
-STOCKHOLM 2017,"
-        Sillón con cojines",199€
-TOBIAS,"
-        Silla",59€
-EKEDALEN,"
-        Silla",50€
-BERNHARD,"
-        Silla",149€
-BERNHARD,"
-        Silla",149€
-ADDE,"
-        Silla",10€
-FRANKLIN,"
-        Taburete alto plegable,
-          ","34,99€"
-EKEDALEN / EKEDALEN,"
-        Mesa con 4 sillas,
-          ",369€
-MELLTORP / TEODORES,"
-        Mesa con 4 sillas,
-          ",120€
-FRIHETEN,"
-        Sillón",129€
-BUSSAN,"
-        Puf para interior o exterior",99€
-KULLABERG,"
-        Silla giratoria","49,99€"
-KAUSTBY,"
-        Silla",50€
-MARIUS,"
-        Taburete",4€
-VANGSTA / TEODORES,"
-        Mesa con 4 sillas,
-          ",179€
-HENRIKSDAL,"
-        Funda silla",20€
-EKENÄSET,"
-        Sillón",199€
-JOKKMOKK,"
-        Mesa con 4 sillas",119€
-HENRIKSDAL,"
-        Funda silla",20€
-SUNDMO,"
-        Sillón",129€
-EKEDALEN / EKEDALEN,"
-        Mesa +2sillas+banco,
-          ",348€
-TOBIAS,"
-        Silla",59€
-EKEDALEN / LEIFARNE,"
-        Mesa y 6 sillas,
-          ","438,94€"
-FRODE,"
-        Silla plegable","29,99€"
-EKENÄSET,"
-        Sillón",249€
-FRANKLIN,"
-        Taburete alto plegable,
-          ","34,99€"
-JANINGE,"
-        Taburete alto,
-          ",100€
-STRANDMON,"
-        Sillón orejero",249€
-SNILLE,"
-        Silla giratoria","19,99€"
-HENRIKSDAL,"
-        Taburete alto,
-          ",119€
-EKEDALEN,"
-        Banco,
-          ",79€
-EKEDALEN / EKEDALEN,"
-        Mesa y 6 sillas,
-          ",499€
-PELLO,"
-        Sillón","32,99€"
-EKEDALEN,"
-        Silla",50€
-NILS,"
-        Taburete","39,99€"
-BEKVÄM,"
-        Taburete escalón,
-          ","12,99€"
-YPPERLIG,"
-        Silla con reposabrz int/ext",59€
-LÅNGFJÄLL,"
-        Silla de trabajo con reposabrazos",149€
-GAMLEBY,"
-        Silla","49,99€"
-NORRARYD,"
-        Silla",59€
-KARLHUGO,"
-        Silla",119€
-MELLTORP / ADDE,"
-        Mesa con 4 sillas,
-          ",80€
-KAUSTBY,"
-        Silla",50€
-SAKARIAS,"
-        Sillón",129€
-DALFRED,"
-        Taburete alto,
-          ","39,99€"
-TOSSBERG,"
-        Silla",179€
-LERHAMN,"
-        Silla",40€
-HATTEFJÄLL,"
-        Silla de trabajo con reposabrazos",229€
-INGATORP,"
-        Sillón",99€
-BALTSAR,"
-        Silla",129€
-BEKVÄM,"
-        Taburete escalón,
-          ","19,99€"
-JANINGE,"
-        Sillón",50€
-STIG,"
-        Taburete alto,
-          ","19,99€"
-URBAN,"
-        Silla alta para niños y niñas","34,99€"
-STOCKHOLM 2017,"
-        Sillón con cojines",229€
-DOCKSTA / TOBIAS,"
-        Mesa con 4 sillas,
-          ",355€
-GUBBO,"
-        Sillón",119€
-LÅNGFJÄLL,"
-        Silla sala de juntas",99€
-IKEA PS GULLHOLMEN,"
-        Mecedora","49,99€"
-JÄRVSTA,"
-        Sillón cama",299€
-FINNTORP / DJUPVIK,"
-        Sillón con cojines","88,99€"
-HENRIKSDAL,"
-        Funda silla",25€
-GLIVARP / TOBIAS,"
-        Mesa y 6 sillas,
-          ",603€
-VEDBO,"
-        Sillón",199€
-NORNA,"
-        Cojín para silla",6€
-ALLSTA,"
-        Silla","29,99€"
-LISABO / JANINGE,"
-        Mesa con 4 sillas,
-          ","218,96€"
-EKEDALEN / BERNHARD,"
-        Mesa y 6 sillas,
-          ",1.093€
-STEFAN,"
-        Silla",30€
-INGATORP / INGOLF,"
-        Mesa con 4 sillas,
-          ",557€
-LEIFARNE,"
-        Asiento","24,99€"
+        Taburete","39,99€",https://www.ikea.com/es/es/p/ingolf-taburete-blanco-00152282/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
 NISSE,"
-        Silla plegable",20€
-EKEDALEN / HENRIKSDAL,"
-        Mesa y 6 sillas,
-          ",793€
-LÅNGFJÄLL,"
-        Silla de trabajo con reposabrazos",169€
-BRORINGE,"
-        Soporte",15€
+        Silla plegable",10€,https://www.ikea.com/es/es/p/nisse-silla-plegable-azul-oscuro-lila-90412426/,"
+          Una silla ligera y fácil de sacar y desplegar cuando vienen invitados. Fácil de plegar y guardar cuando no se necesita.
+          "
+ADDE,"
+        Silla",10€,https://www.ikea.com/es/es/p/adde-silla-blanco-10219178/,
+MARTIN,"
+        Silla","19,99€",https://www.ikea.com/es/es/p/martin-silla-negro-negro-s09219527/,
+YPPERLIG,"
+        Banco,
+          ","39,99€",https://www.ikea.com/es/es/p/ypperlig-banco-haya-40345378/,"
+          Este banco estrecho de madera maciza cabe en vestíbulos muy pequeños, y puedes moverlo fácilmente cuando necesitas asientos adicionales en la mesa de comedor.
+          "
+ODGER,"
+        Silla",69€,https://www.ikea.com/es/es/p/odger-silla-blanco-beige-60359996/,"
+          Montaje sencillo con un solo clic y sin herramientas. Resulta muy cómoda gracias a la forma redondeada del asiento y el respaldo. Está hecha de madera renovable y plástico reciclado. ¡Una gran adquisición en todos los sentidos!
+          "
 FRANKLIN,"
         Taburete alto plegable,
-          ","39,99€"
-INGOLF,"
-        Taburete","39,99€"
+          ","34,99€",https://www.ikea.com/es/es/p/franklin-taburete-alto-plegable-blanco-blanco-70404875/,
+TOBIAS,"
+        Silla",59€,https://www.ikea.com/es/es/p/tobias-silla-transparente-cromado-80349671/,"
+          Una silla transparente que se impregna del entorno y los colores de la habitación. Parece que está flotando, y gracias a la flexibilidad del asiento, tú también tendrás la sensación de estar flotando.
+          "
 KULLABERG,"
-        Taburete","39,99€"
-HENRIKSDAL,"
-        Silla",59€
-VALLENTUNA,"
-        Módulo sofá cama con reposabrazos",515€
-IDOLF,"
-        Silla",59€
+        Taburete","39,99€",https://www.ikea.com/es/es/p/kullaberg-taburete-pino-negro-10363651/,
+NORNA,"
+        Cojín para silla",6€,https://www.ikea.com/es/es/p/norna-cojin-silla-laila-natural-20013073/,
 EKEDALEN / EKEDALEN,"
-        Mesa y 6 sillas,
-          ",499€
-MUREN,"
-        Sillón reclinable",349€
+        Mesa con 4 sillas,
+          ",369€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-con-4-sillas-blanco-orrsta-gris-claro-s79296857/,
+TOBIAS,"
+        Silla",59€,https://www.ikea.com/es/es/p/tobias-silla-gris-cromado-20349674/,"
+          Una silla transparente que se impregna del entorno y los colores de la habitación. Parece que está flotando, y gracias a la flexibilidad del asiento, tú también tendrás la sensación de estar flotando.
+          "
 ANTILOP,"
-        Silla alta con bandeja",19€
-DJUPVIK,"
-        Cojín,
-          ","19,99€"
-HENRIKSDAL,"
-        Estructura de silla",39€
-ANTILOP,"
-        Bandeja para sillín de trona",4€
-BERNHARD,"
-        Taburete alto,
-          ",179€
-NOLMYRA,"
-        Sillón","29,99€"
+        Bandeja para sillín de trona",4€,https://www.ikea.com/es/es/p/antilop-bandeja-sillin-trona-blanco-40076093/,
+MARKUS,"
+        Silla de trabajo",159€,https://www.ikea.com/es/es/p/markus-silla-trabajo-vissle-gris-oscuro-70261150/,"
+          La altura y el ángulo de esta silla se pueden regular para que resulte aún más cómoda. El respaldo de malla deja pasar el aire y te mantiene fresco incluso cuando el trabajo aprieta. Diseñada para durar muchos años.
+          "
 TÄRENDÖ / ADDE,"
         Mesa con 4 sillas,
-          ","69,99€"
-HARRY,"
-        Silla","39,99€"
-INGATORP / INGATORP,"
-        Mesa con 4 sillas,
-          ",645€
-EKEDALEN / EKEDALEN,"
-        Mesa con 4 sillas,
-          ",369€
-ANGRIM,"
-        Silla",59€
-VANGSTA / TEODORES,"
-        Mesa con 4 sillas,
-          ",179€
-TULLSTA,"
-        Sillón",119€
-TINGBY / LEIFARNE,"
-        Mesa y 6 sillas,
-          ","388,94€"
-EKEDALEN / EKEDALEN,"
-        Mesa con 4 sillas,
-          ",369€
-INGATORP / INGOLF,"
-        Mesa y 6 sillas,
-          ",707€
-YPPERLIG,"
-        Banco,
-          ","39,99€"
-BLECKBERGET,"
-        Silla giratoria","49,99€"
-HENRIKSDAL,"
-        Funda silla",20€
-JULES,"
-        Silla escritorio niño","39,99€"
-MOLTE,"
-        Silla de escritorio",15€
-LISABO / IDOLF,"
-        Mesa con 4 sillas,
-          ",335€
-BEKVÄM,"
-        Taburete escalón,
-          ","19,99€"
-INDUSTRIELL,"
-        Banco,
-          ",89€
-MÄSTERBY,"
-        Taburete escalón","29,99€"
-BYHOLMA,"
-        Sillón","103,99€"
-HATTEFJÄLL,"
-        Silla de trabajo",199€
-BEKVÄM,"
-        Escalera, 3 peldaños,
-          ","29,99€"
-LEIFARNE,"
-        Asiento","24,99€"
-JÄRVFJÄLLET,"
-        Silla de trabajo con reposabrazos",199€
-EKEDALEN / EKEDALEN,"
-        Mesa y 6 sillas,
-          ",499€
-INDUSTRIELL,"
-        Sillón",149€
-MELLTORP / ADDE,"
-        Mesa y dos sillas,
-          ",50€
+          ","69,99€",https://www.ikea.com/es/es/p/tarendo-adde-mesa-con-4-sillas-negro-s79010690/,
+KLÄMMIG,"
+        Cojín soporte&funda",7€,https://www.ikea.com/es/es/p/klammig-cojin-soporte-funda-gris-amarillo-20373089/,
 EKEDALEN,"
-        Funda silla",10€
-EKEDALEN / EKEDALEN,"
-        Mesa y 6 sillas,
-          ",499€
-SVENBERTIL,"
-        Silla",59€
-REMSTA,"
-        Sillón",149€
-DOCKSTA / JANINGE,"
-        Mesa con 4 sillas,
-          ","238,96€"
-HENRIKSDAL,"
-        Tapicería taburete alto",7€
-GRÖNLID,"
-        Sillón",199€
-YPPERLIG,"
-        Silla con reposabrz int/ext",59€
-MÄSTERBY,"
-        Taburete escalón","29,99€"
-GRÖNLID,"
-        Chaiselongue",390€
-LEIFARNE,"
-        Silla","39,99€"
-POÄNG,"
-        Sillón",129€
-RÅDVIKEN,"
-        Sillón",129€
-STRANDMON,"
-        Sillón para niños",99€
-STORNÄS / KAUSTBY,"
-        Mesa y 6 sillas,
-          ",649€
-INGATORP / INGOLF,"
-        Mesa con 4 sillas,
-          ",449€
-TOSSBERG,"
-        Silla",179€
-VANGSTA / TEODORES,"
-        Mesa y dos sillas,
-          ",99€
-INGATORP / INGOLF,"
-        Mesa y 6 sillas,
-          ",647€
-EKEDALEN,"
-        Banco,
-          ",79€
-HENRIKSDAL,"
-        Funda larga para silla",25€
-LÅNGFJÄLL,"
-        Silla de trabajo",129€
-ERNFRID,"
-        Soporte","34,01€"
-STOCKHOLM 2017,"
-        Sillón",129€
-TÄRENDÖ / GUNDE,"
-        Mesa con 4 sillas,
-          ","57,99€"
-IKEA PS 1995,"
-        Banco con cajón",99€
-OPPEBY/BACKARYD / TOBIAS,"
-        Mesa y 6 sillas,
-          ",503€
-DOCKSTA / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","278,96€"
-DOCKSTA / JANINGE,"
-        Mesa con 4 sillas,
-          ","238,96€"
-LISABO / LEIFARNE,"
-        Mesa con 4 sillas,
-          ",335€
-HENRIKSDAL,"
-        Estructura taburete alto,
-          ","49,99€"
-MÖRBYLÅNGA / ODGER,"
-        Mesa con 4 sillas,
-          ",775€
-SKRUVSTA,"
-        Silla giratoria",99€
-SVENBERTIL,"
-        Asiento","24,99€"
-BRORINGE,"
-        Soporte",15€
-HOLMSEL,"
-        Sillón","49,99€"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-roble-orrsta-gris-claro-40341021/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
 INGOLF,"
-        Taburete alto,
-          ",59€
-LANGUR,"
-        Funda acolchada trona",10€
-STOLJAN,"
-        Silla sala de juntas","39,99€"
-INGATORP / INGOLF,"
-        Mesa con 4 sillas,
-          ",449€
-PLATSA,"
-        Banco con cajón,
-          ",120€
-FINNTORP,"
-        Sillón",69€
-DOCKSTA / TOBIAS,"
-        Mesa con 4 sillas,
-          ",355€
-LANDSKRONA,"
-        Sillón",199€
-ALRIK,"
-        Silla giratoria","24,99€"
-SKÅLBERG / SPORREN,"
-        Silla giratoria","29,99€"
-BYHOLMA,"
-        Sillón",89€
-MELLTORP / TEODORES,"
-        Mesa y dos sillas,
-          ",70€
-EKEDALEN / EKEDALEN,"
-        Mesa y dos sillas,
-          ",199€
-VALLENTUNA,"
-        Módulo asiento +respaldo",430€
-URBAN,"
-        Silla alta para niños y niñas","34,99€"
-NILS,"
-        Taburete","39,99€"
-POÄNG,"
-        Sillón",129€
-MELLTORP / ADDE,"
-        Mesa con 4 sillas,
-          ",80€
-LÅNGFJÄLL,"
-        Reposabrazos 2",20€
-EKEDALEN / EKEDALEN,"
-        Mesa con 4 sillas,
-          ",369€
-GAMLEBY,"
-        Mesa con 4 sillas,
-          ","448,96€"
-NILSERIK,"
-        Taburete","49,99€"
-MELLTORP / JANINGE,"
-        Mesa con 4 sillas,
-          ","159,96€"
-ALEFJÄLL,"
-        Silla de trabajo",249€
+        Silla",50€,https://www.ikea.com/es/es/p/ingolf-silla-negro-marron-60217822/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+VOLFGANG,"
+        Silla",50€,https://www.ikea.com/es/es/p/volfgang-silla-cromado-bomstad-negro-90402352/,"
+          Un asiento mullido, acolchado y flexible que te permite descansar y relajarte incluso si permaneces sentado durante mucho tiempo. Los taburetes y sillas de comedor VOLFGANG son igual de cómodos.
+          "
+JANINGE,"
+        Silla","29,99€",https://www.ikea.com/es/es/p/janinge-silla-amarillo-60246080/,"
+          Ante el reto de resolver la ecuación de combinar diseño, función y calidad en una silla, nuestros diseñadores crearon JANINGE. Es lo suficientemente duradera como para usarla en un restaurante y tiene un diseño que te quieres llevar a casa.
+          "
 EKEDALEN,"
-        Funda silla",10€
-BERNHARD,"
-        Taburete alto,
-          ",179€
-HENRIKSDAL,"
-        Tapicería taburete alto",20€
-INGATORP,"
-        Sillón",99€
-GRÖNLID,"
-        Sillón",249€
-KULLABERG,"
-        Silla giratoria","49,99€"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-marron-oscuro-orrsta-gris-claro-80340760/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+EKENÄSET,"
+        Sillón",199€,https://www.ikea.com/es/es/p/ekenaset-sillon-isunda-gris-80275811/,"
+          La primera vez que introdujimos esta popular silla en el surtido fue en los años cincuenta. Casi 60 años después, la recuperamos con el mismo aspecto, comodidad y diseño artesanal. ¡Disfrútala!
+          "
+JULES,"
+        Silla escritorio niño","39,99€",https://www.ikea.com/es/es/p/jules-silla-escritorio-nino-azul-blanco-s29207712/,
 EKEDALEN / EKEDALEN,"
         Mesa +2sillas+banco,
-          ",348€
-EKEDALEN / EKEDALEN,"
-        Mesa y dos sillas,
-          ",199€
-TORSBY / VOLFGANG,"
-        Mesa con 4 sillas",325€
-NORBERG / NISSE,"
-        Mesa+1 silla,
-          ","59,99€"
-HATTEFJÄLL,"
-        Reposabrazos 2",30€
-KLÄMMIG,"
-        Cojín soporte&funda",7€
-INGOLF,"
-        Silla alta para niños y niñas","39,99€"
-MARIEBERG,"
-        Cojines para sillones,
-          ","14,99€"
-LERHAMN,"
+          ",348€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-2sillas-banco-blanco-orrsta-gris-claro-s99221347/,
+LISABO / JANINGE,"
         Mesa con 4 sillas,
-          ",259€
-MELLTORP / NISSE,"
-        Mesa+2 sillas plegables,
-          ",50€
-AGAM,"
-        Silla alta para niños y niñas","39,99€"
-LERHAMN / STEFAN,"
-        Mesa con 4 sillas,
-          ",179€
-NILS,"
-        Funda taburete",10€
-ESPNÄS,"
-        Taburete, plegable","14,99€"
-GRÖNADAL,"
-        Mecedora",199€
-LERHAMN,"
-        Mesa y dos sillas,
-          ",149€
-INGOLF,"
-        Silla alta para niños y niñas","39,99€"
-LERHAMN,"
-        Mesa y dos sillas,
-          ",149€
-MELLTORP / NISSE,"
-        Mesa+2 sillas plegables,
-          ",70€
-LEIFARNE,"
-        Asiento","24,99€"
-NOMINELL,"
-        Reposabrazos 2",25€
-EKEDALEN / EKEDALEN,"
-        Mesa y 6 sillas,
-          ",499€
-RÅSKOG,"
-        Taburete alto,
-          ","29,99€"
-POÄNG,"
-        Mecedora",259€
-LILLHÖJDEN,"
-        Silla giratoria","69,99€"
-STORSELE,"
-        Sillón con respaldo alto",99€
-TINGBY / LEIFARNE,"
-        Mesa y 6 sillas,
-          ","388,94€"
-SÖDERHAMN,"
-        Chaiselongue",330€
-VEDBO,"
-        Sillón con respaldo alto",299€
-TORSBY / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","284,96€"
-SAKARIAS,"
-        Tapicería para silla reposabrazos",25€
+          ","218,96€",https://www.ikea.com/es/es/p/lisabo-janinge-mesa-con-4-sillas-chapa-fresno-blanco-s49103247/,
+HENRIKSDAL,"
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-dansbo-gris-oscuro-10245610/,
+ANGRIM,"
+        Silla",59€,https://www.ikea.com/es/es/p/angrim-silla-blanco-con-diseno-s89221017/,
+HENRIKSDAL,"
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-nolhaga-beige-grisaceo-40301633/,
+SUNDMO,"
+        Sillón",129€,https://www.ikea.com/es/es/p/sundmo-sillon-gris-oscuro-50402434/,
 EKEDALEN,"
-        Silla",60€
-INGO / FRODE,"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-abedul-orrsta-gris-claro-00341023/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+NOLMYRA,"
+        Sillón","29,99€",https://www.ikea.com/es/es/p/nolmyra-sillon-chapa-abedul-gris-10233532/,
+FJÄLLBERGET,"
+        Silla sala de juntas",159€,https://www.ikea.com/es/es/p/fjallberget-silla-sala-juntas-chapa-roble-tinte-blanco-gunnared-beige-beige-claro-80396422/,
+VANGSTA / TEODORES,"
         Mesa con 4 sillas,
-          ","188,96€"
-IKEA PS 2012 / TEODORES,"
-        Mesa y dos sillas",189€
+          ",179€,https://www.ikea.com/es/es/p/vangsta-teodores-mesa-con-4-sillas-blanco-blanco-s59221189/,
+ODGER,"
+        Silla",69€,https://www.ikea.com/es/es/p/odger-silla-azul-00360002/,"
+          Montaje sencillo con un solo clic y sin herramientas. Resulta muy cómoda gracias a la forma redondeada del asiento y el respaldo. Está hecha de madera renovable y plástico reciclado. ¡Una gran adquisición en todos los sentidos!
+          "
+FINNTORP / DJUPVIK,"
+        Sillón con cojines","88,99€",https://www.ikea.com/es/es/p/finntorp-djupvik-sillon-con-cojines-blanco-s89897778/,
+LÅNGFJÄLL,"
+        Silla de trabajo con reposabrazos",169€,https://www.ikea.com/es/es/p/langfjall-silla-trabajo-con-reposabrazos-gunnared-azul-blanco-s79252858/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+ODGER,"
+        Silla",69€,https://www.ikea.com/es/es/p/odger-silla-marron-50364149/,"
+          Montaje sencillo con un solo clic y sin herramientas. Resulta muy cómoda gracias a la forma redondeada del asiento y el respaldo. Está hecha de madera renovable y plástico reciclado. ¡Una gran adquisición en todos los sentidos!
+          "
+MELLTORP / ADDE,"
+        Mesa y dos sillas,
+          ",50€,https://www.ikea.com/es/es/p/melltorp-adde-mesa-dos-sillas-blanco-s49011766/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+IKEA PS GULLHOLMEN,"
+        Mecedora","49,99€",https://www.ikea.com/es/es/p/ikea-ps-gullholmen-mecedora-fibras-platanera-50039552/,
+STEFAN,"
+        Silla",30€,https://www.ikea.com/es/es/p/stefan-silla-blanco-90339233/,
+INGOLF,"
+        Silla",50€,https://www.ikea.com/es/es/p/ingolf-silla-tint-envj-00217820/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+TERJE,"
+        Silla plegable","12,99€",https://www.ikea.com/es/es/p/terje-silla-plegable-rojo-40225677/,"
+          Ideal para el rincón del desayuno o para cuando necesites sillas extra. El agujero del respaldo te permite colgarla en la pared y liberar espacio cuando no la uses.
+          "
+FRANKLIN,"
+        Taburete alto plegable,
+          ","39,99€",https://www.ikea.com/es/es/p/franklin-taburete-alto-plegable-blanco-blanco-90404879/,
+MELLTORP / ADDE,"
+        Mesa con 4 sillas,
+          ",80€,https://www.ikea.com/es/es/p/melltorp-adde-mesa-con-4-sillas-blanco-negro-s79161486/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+BAKLÄ,"
+        Sillón",129€,https://www.ikea.com/es/es/p/bakla-sillon-kimstad-hueso-00317848/,
+FRIHETEN,"
+        Sillón",129€,https://www.ikea.com/es/es/p/friheten-sillon-skiftebo-gris-30304793/,
+FRODE,"
+        Silla plegable","29,99€",https://www.ikea.com/es/es/p/frode-silla-plegable-turquesa-40217795/,
+STRANDMON,"
+        Sillón orejero",249€,https://www.ikea.com/es/es/p/strandmon-sillon-orejero-jarstad-efecto-envejecido-marron-30322339/,
+URBAN,"
+        Silla alta para niños y niñas","34,99€",https://www.ikea.com/es/es/p/urban-silla-alta-ninos-ninas-blanco-00165213/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+GUBBO,"
+        Sillón",119€,https://www.ikea.com/es/es/p/gubbo-sillon-gris-oscuro-90344970/,
+EKEDALEN / EKEDALEN,"
+        Mesa y 6 sillas,
+          ",499€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-6-sillas-blanco-orrsta-gris-claro-s19221351/,
+SOLSTA OLARP,"
+        Sillón",89€,https://www.ikea.com/es/es/p/solsta-olarp-sillon-idhult-negro-00099850/,
+FRANKLIN,"
+        Taburete alto plegable,
+          ","34,99€",https://www.ikea.com/es/es/p/franklin-taburete-alto-plegable-negro-negro-50406465/,
+JANINGE,"
+        Taburete alto,
+          ",100€,https://www.ikea.com/es/es/p/janinge-taburete-alto-blanco-70246089/,"
+          Ante el reto de resolver la ecuación de combinar diseño, función y calidad en una silla, nuestros diseñadores crearon JANINGE. Es lo suficientemente duradera como para usarla en un restaurante y tiene un diseño que te quieres llevar a casa.
+          "
+HENRIKSDAL,"
+        Tapicería taburete alto",7€,https://www.ikea.com/es/es/p/henriksdal-tapiceria-taburete-alto-grasbo-blanco-20336619/,
+TULLSTA,"
+        Sillón",119€,https://www.ikea.com/es/es/p/tullsta-sillon-lofallet-beige-s29272712/,
+DALFRED,"
+        Taburete alto,
+          ","39,99€",https://www.ikea.com/es/es/p/dalfred-taburete-alto-negro-60155602/,
+EKEDALEN,"
+        Banco,
+          ",79€,https://www.ikea.com/es/es/p/ekedalen-banco-blanco-10341032/,"
+          El banco es ideal para aprovechar el espacio y ganar en asientos.
+          "
+NORRARYD,"
+        Silla",59€,https://www.ikea.com/es/es/p/norraryd-silla-blanco-70273092/,"
+          El diseño se inspira en la tradición escandinava de emplear materiales y estilos sencillos. La suave curva del respaldo te abraza y brinda el apoyo que necesitas. Elige un solo color o combina varios.
+          "
+MELLTORP / TEODORES,"
+        Mesa con 4 sillas,
+          ",120€,https://www.ikea.com/es/es/p/melltorp-teodores-mesa-con-4-sillas-blanco-s29221256/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+BLECKBERGET,"
+        Silla giratoria","49,99€",https://www.ikea.com/es/es/p/bleckberget-silla-giratoria-idekulla-beige-60308676/,"
+          BLECKBERGET se inspira en sillas tradicionales de los años cincuenta y sesenta, pero con un toque moderno para adaptarse al estilo de vida y el mundo laboral de hoy en día. Bonita y cómoda, la puedes usar en cualquier lugar de la casa.
+          "
+JÄRVSTA,"
+        Sillón cama",299€,https://www.ikea.com/es/es/p/jarvsta-sillon-cama-skiftebo-gris-oscuro-20392083/,
+TOBIAS,"
+        Silla",59€,https://www.ikea.com/es/es/p/tobias-silla-azul-cromado-60334722/,"
+          Una silla transparente que se impregna del entorno y los colores de la habitación. Parece que está flotando, y gracias a la flexibilidad del asiento, tú también tendrás la sensación de estar flotando.
+          "
+NOMINELL,"
+        Reposabrazos 2",25€,https://www.ikea.com/es/es/p/nominell-reposabrazos-2-negro-90200269/,
+SAKARIAS,"
+        Sillón",129€,https://www.ikea.com/es/es/p/sakarias-sillon-negro-sporda-gris-oscuro-s69279028/,
+KULLABERG,"
+        Silla giratoria","49,99€",https://www.ikea.com/es/es/p/kullaberg-silla-giratoria-negro-90325518/,
+HATTEFJÄLL,"
+        Silla de trabajo con reposabrazos",229€,https://www.ikea.com/es/es/p/hattefjall-silla-trabajo-con-reposabrazos-gunnared-beige-blanco-s49252119/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+DOCKSTA / TOBIAS,"
+        Mesa con 4 sillas,
+          ",355€,https://www.ikea.com/es/es/p/docksta-tobias-mesa-con-4-sillas-blanco-transparente-s39197411/,
+STIG,"
+        Taburete alto,
+          ","19,99€",https://www.ikea.com/es/es/p/stig-taburete-alto-negro-gris-plata-80155205/,
+IDOLF,"
+        Silla",59€,https://www.ikea.com/es/es/p/idolf-silla-negro-80225166/,"
+          Lo bueno siempre se puede mejorar, y después de 5 años en el surtido, encontramos la manera de producir la silla IDOLF usando menos madera y haciéndola más ligera pero igual de robusta, cómoda y versátil.
+          "
+YPPERLIG,"
+        Silla con reposabrz int/ext",59€,https://www.ikea.com/es/es/p/ypperlig-silla-con-reposabrz-int-ext-verde-40346580/,"
+          Inspirada en las clásicas sillas de madera curvada, típicas de los cafés de Viena del siglo XIX. Hecha de una sola pieza, no requiere tornillos ni montaje. Tiene protección contra los rayos UV, por lo que puede usarse tanto en interiores como exteriores.
+          "
+NISSE,"
+        Silla plegable",20€,https://www.ikea.com/es/es/p/nisse-silla-plegable-alto-brillo-blanco-cromado-10115067/,"
+          Una silla ligera y fácil de sacar y desplegar cuando vienen invitados. Fácil de plegar y guardar cuando no se necesita.
+          "
+MÄSTERBY,"
+        Taburete escalón","29,99€",https://www.ikea.com/es/es/p/masterby-taburete-escalon-beige-40332074/,"
+          Resulta muy útil para guardar cosas en zonas altas. Este taburete escalón, además de ser muy bonito, va muy bien para llegar a la parte superior de los armarios.
+          "
+MELLTORP / ADDE,"
+        Mesa con 4 sillas,
+          ",80€,https://www.ikea.com/es/es/p/melltorp-adde-mesa-con-4-sillas-blanco-s99014376/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+URBAN,"
+        Silla alta para niños y niñas","34,99€",https://www.ikea.com/es/es/p/urban-silla-alta-ninos-ninas-verde-50207036/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+RÖNNINGE,"
+        Silla",79€,https://www.ikea.com/es/es/p/ronninge-silla-verde-50412895/,
+LERHAMN,"
+        Silla",40€,https://www.ikea.com/es/es/p/lerhamn-silla-negro-marron-vittaryd-beige-70264281/,
+VOLFGANG,"
+        Silla","49,99€",https://www.ikea.com/es/es/p/volfgang-silla-cromado-gunnared-rosa-marron-rosa-claro-60421903/,"
+          Un asiento mullido, acolchado y flexible que te permite descansar y relajarte incluso si permaneces sentado durante mucho tiempo. Los taburetes y sillas de comedor VOLFGANG son igual de cómodos.
+          "
+INGOLF,"
+        Silla alta para niños y niñas","39,99€",https://www.ikea.com/es/es/p/ingolf-silla-alta-ninos-ninas-tint-envj-60353838/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+HARRY,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/harry-silla-abedul-blekinge-blanco-60105829/,
+DJUPVIK,"
+        Cojín,
+          ","19,99€",https://www.ikea.com/es/es/p/djupvik-cojin-blekinge-blanco-30204798/,
+EKEDALEN,"
+        Funda silla",10€,https://www.ikea.com/es/es/p/ekedalen-funda-silla-orrsta-gris-claro-40377048/,
+HENRIKSDAL,"
+        Taburete alto,
+          ",119€,https://www.ikea.com/es/es/p/henriksdal-taburete-alto-negro-marron-glose-negro-50318987/,
+STRANDMON,"
+        Sillón para niños",99€,https://www.ikea.com/es/es/p/strandmon-sillon-ninos-vissle-gris-70392542/,"
+          Los niños se sienten especiales e importantes cuando hacen lo mismo que los adultos. Por eso hemos creado una versión en miniatura de nuestro querido sillón STRANDMON. Ahora ya podéis sentaros y relajaros juntos, uno al lado del otro.
+          "
+HENRIKSDAL,"
+        Funda silla",25€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-linneryd-natural-80187683/,
+INDUSTRIELL,"
+        Banco,
+          ",89€,https://www.ikea.com/es/es/p/industriell-banco-pino-50394537/,
+BRORINGE,"
+        Soporte",15€,https://www.ikea.com/es/es/p/broringe-soporte-blanco-90339902/,
+VANGSTA / TEODORES,"
+        Mesa y dos sillas,
+          ",99€,https://www.ikea.com/es/es/p/vangsta-teodores-mesa-dos-sillas-blanco-blanco-s19221209/,
+VANGSTA / TEODORES,"
+        Mesa con 4 sillas,
+          ",179€,https://www.ikea.com/es/es/p/vangsta-teodores-mesa-con-4-sillas-blanco-naranja-claro-s19252173/,
+NORRARYD,"
+        Taburete alto,
+          ",89€,https://www.ikea.com/es/es/p/norraryd-taburete-alto-negro-00397736/,"
+          Está inspirado en el diseño tradicional escandinavo, que utilizaba materiales sencillos, y ha sido probado y aprobado para uso público, así que puedes estar seguro que resiste el uso doméstico de una familia sin problemas.
+          "
 BEKVÄM,"
         Escalera, 3 peldaños,
-          ","34,99€"
-YPPERLIG,"
-        Taburete",25€
-KOARP,"
-        Sillón",139€
-MELLTORP / TEODORES,"
-        Mesa con 4 sillas,
-          ",120€
-MELLTORP / TEODORES,"
-        Mesa con 4 sillas",120€
-VIMUND,"
-        Silla escritorio niño",59€
-BYHOLMA,"
-        Sillón","108,99€"
-SVENBERTIL,"
-        Asiento","24,99€"
-TROLLBERGET,"
-        Soporte sentado/de pie",89€
-INGOLF,"
-        Taburete","39,99€"
-SALTHOLMEN,"
-        Silla jardín",20€
-STOCKHOLM 2017,"
-        Juego cojines para sillón",70€
-MELLTORP / TEODORES,"
-        Mesa y dos sillas,
-          ",70€
-YPPERLIG,"
-        Sillón",69€
+          ","34,99€",https://www.ikea.com/es/es/p/bekvam-escalera-3-peldanos-negro-90219829/,"
+          Resulta muy práctico guardar las cosas en sitios altos, pero a veces no es fácil llegar a ellas. Esta escalera, además de bonita, va muy bien para llegar a la parte más alta de los armarios.
+          "
 NILS,"
-        Funda taburete",10€
-LEIFARNE,"
-        Silla",59€
-EKEDALEN,"
-        Silla",60€
-AGAM,"
-        Silla alta para niños y niñas","39,99€"
-MELLTORP / MARIUS,"
-        Mesa y 2 taburetes,
-          ",38€
-HENRIKSDAL,"
-        Funda silla",20€
-RÅSKOG,"
-        Taburete","19,99€"
-LANGUR,"
-        Bandeja para sillín de trona",10€
-ESPNÄS,"
-        Taburete, plegable","14,99€"
-STRANDMON,"
-        Sillón orejero",179€
-LYCKSELE LÖVÅS,"
-        Sillón cama",169€
-TÄNKVÄRD,"
-        Banco",119€
-KIVIK,"
-        Chaiselongue",200€
-LYCKSELE MURBO,"
-        Sillón cama",219€
-NILSOVE,"
-        Silla con reposabrazos",79€
-TÄNKVÄRD,"
-        Taburete","39,99€"
-LYCKSELE HÅVET,"
-        Sillón cama",269€
-NORRÅKER,"
-        Banco,
-          ",79€
-FANBYN,"
-        Sillón",69€
-TÄNKVÄRD,"
-        Sillón",99€
-EKTORP,"
-        Sillón",209€
-OMTÄNKSAM,"
-        Sillón",229€
-NORRÅKER,"
-        Taburete,
-          ","29,99€"
-EKENÄS,"
-        Sillón",229€
-ALBACKEN,"
-        Sillón",69€
-FANBYN,"
-        Silla",59€
-EKERÖ,"
-        Sillón",129€
-POÄNG,"
-        Sillón",189€
-BUSKBO,"
-        Sillón","148,99€"
-INGO / IVAR,"
-        Mesa con 4 sillas,
-          ",149€
-ULRIKSBERG,"
-        Sillón",99€
-BJURÅN,"
-        Silla",69€
-POÄNG,"
-        Mecedora",199€
+        Taburete","39,99€",https://www.ikea.com/es/es/p/nils-taburete-negro-blekinge-blanco-s09850384/,
+IKEA PS 1995,"
+        Banco con cajón",99€,https://www.ikea.com/es/es/p/ikea-ps-1995-banco-con-cajon-blanco-60430988/,"
+          Con motivo de nuestro septuagésimo quinto aniversario hemos creado una colección especial recopilando algunos de nuestros clásicos. ¿Recuerdas en qué década lanzamos este producto?
+          "
 LÅNGFJÄLL,"
-        Silla juntas con reposabrazos",119€
-VIMLE,"
-        Chaiselongue",460€
-FANBYN,"
-        Sillón",69€
+        Reposabrazos 2",20€,https://www.ikea.com/es/es/p/langfjall-reposabrazos-2-blanco-70320569/,
+EKEDALEN,"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-marron-orrsta-gris-claro-80341019/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+EKEDALEN,"
+        Silla",50€,https://www.ikea.com/es/es/p/ekedalen-silla-negro-orrsta-gris-claro-00434395/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+REMSTA,"
+        Sillón",149€,https://www.ikea.com/es/es/p/remsta-sillon-djuparp-azul-verdoso-azul-verdoso-oscuro-60344759/,
+HENRIKSDAL,"
+        Estructura de silla",39€,https://www.ikea.com/es/es/p/henriksdal-estructura-silla-marron-oscuro-30361038/,
+NILSERIK,"
+        Taburete","49,99€",https://www.ikea.com/es/es/p/nilserik-taburete-negro-vissle-negro-30349956/,
+HATTEFJÄLL,"
+        Reposabrazos 2",30€,https://www.ikea.com/es/es/p/hattefjall-reposabrazos-2-blanco-30341347/,
+TÄRENDÖ / GUNDE,"
+        Mesa con 4 sillas,
+          ","57,99€",https://www.ikea.com/es/es/p/tarendo-gunde-mesa-con-4-sillas-negro-s89010699/,
+NILS,"
+        Funda taburete",10€,https://www.ikea.com/es/es/p/nils-funda-taburete-skiftebo-gris-oscuro-30293290/,
+NILS,"
+        Taburete","39,99€",https://www.ikea.com/es/es/p/nils-taburete-negro-skiftebo-gris-oscuro-s79031008/,
+BALTSAR,"
+        Silla",129€,https://www.ikea.com/es/es/p/baltsar-silla-gris-claro-marron-80420035/,
+EKENÄSET,"
+        Sillón",249€,https://www.ikea.com/es/es/p/ekenaset-sillon-idhult-negro-80348997/,
+EKEDALEN / EKEDALEN,"
+        Mesa con 4 sillas,
+          ",369€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-con-4-sillas-marron-oscuro-orrsta-gris-claro-s69221278/,
+EKEDALEN,"
+        Banco,
+          ",79€,https://www.ikea.com/es/es/p/ekedalen-banco-marron-oscuro-40340762/,"
+          El banco es ideal para aprovechar el espacio y ganar en asientos.
+          "
+STOCKHOLM 2017,"
+        Sillón con cojines",229€,https://www.ikea.com/es/es/p/stockholm-2017-sillon-con-cojines-ratan-sandbacka-gris-oscuro-s59207126/,"
+          Artesanía de calidad en ratán natural con un tamaño generoso y un diseño sencillo. Queda bien solo o combinado con el armario y la mesita de centro a juego de la serie STOCKHOLM.
+          "
+HENRIKSDAL,"
+        Tapicería taburete alto",20€,https://www.ikea.com/es/es/p/henriksdal-tapiceria-taburete-alto-linneryd-natural-50188189/,
+INGOLF,"
+        Taburete alto,
+          ",59€,https://www.ikea.com/es/es/p/ingolf-taburete-alto-negro-marron-40248513/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+GAMLEBY,"
+        Silla","49,99€",https://www.ikea.com/es/es/p/gamleby-silla-tinte-envejecido-claro-gris-60247051/,"
+          La curva del respaldo resulta muy cómoda y la barra con forma de pajarita que lo cruza le da a la silla un aspecto especial. Combina a la perfección con la mesa GAMLEBY.
+          "
 INDUSTRIELL,"
-        Silla",79€
-INGATORP / INGOLF,"
-        Mesa y 6 sillas,
-          ",647€
-NORRÅKER,"
-        Taburete alto,
-          ",89€
-HENRIKSDAL,"
-        Silla con funda",59€
-DELAKTIG,"
-        Chaiselongue con reposabrazos",519€
-RÅSKOG,"
-        Taburete alto,
-          ","29,99€"
+        Sillón",149€,https://www.ikea.com/es/es/p/industriell-sillon-natural-gris-00392649/,"
+          El asiento de este sillón está tejido a mano con fibra de papel muy duradera, por lo que cada pieza es única. Pero todas tienen dos cosas en común: vienen en paquetes planos y se montan rápidamente con solo 12 tornillos.
+          "
+MÄSTERBY,"
+        Taburete escalón","29,99€",https://www.ikea.com/es/es/p/masterby-taburete-escalon-marron-rojizo-50402325/,"
+          Resulta muy útil para guardar cosas en zonas altas. Este taburete escalón, además de ser muy bonito, va muy bien para llegar a la parte superior de los armarios.
+          "
+HATTEFJÄLL,"
+        Silla de trabajo",199€,https://www.ikea.com/es/es/p/hattefjall-silla-trabajo-gunnared-beige-00308684/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
 JÄRVFJÄLLET,"
-        Silla de trabajo",169€
-LERHAMN,"
-        Silla",40€
-LÅNGFJÄLL,"
-        Silla juntas con reposabrazos",139€
-LIDHULT,"
-        Sillón",349€
-HENRIKSDAL,"
-        Silla con funda",59€
-SKOGSTA / NORRARYD,"
-        Mesa y 6 sillas,
-          ",803€
-EKEDALEN,"
-        Taburete alto,
-          ",69€
-LIDHULT,"
-        Chaiselongue",550€
-YPPERLIG / NILSOVE,"
-        Mesa con 4 sillas,
-          ",475€
-LERHAMN,"
-        Mesa con 4 sillas,
-          ",259€
-POÄNG,"
-        Mecedora",199€
-LISABO / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
-HENRIKSDAL,"
-        Taburete con funda,
-          ","69,99€"
-FÄRLÖV,"
-        Sillón",449€
-LANGUR,"
-        Funda acolchada silla júnior",6€
-LÅNGFJÄLL,"
-        Silla de trabajo",149€
-SLÄHULT/DALSHULT / LEIFARNE,"
-        Mesa con 4 sillas,
-          ",435€
-FANBYN,"
-        Sillón",69€
-POÄNG,"
-        Sillón",189€
-BUSKBO,"
-        Sillón",129€
-HENRIKSDAL,"
-        Funda silla",20€
-DELAKTIG,"
-        Sillón plataforma",306€
-IKEA PS 2017,"
-        Sillón",179€
-LANDSKRONA,"
-        Chaiselongue, módulo adicional",600€
-TINGBY / NILSOVE,"
-        Mesa con 4 sillas,
-          ",465€
-VÅGSBERG / SPORREN,"
-        Silla giratoria","69,99€"
-NORRARYD,"
-        Silla",59€
-EKEDALEN / ODGER,"
-        Mesa con 4 sillas,
-          ",445€
-INGOLF,"
-        Taburete alto,
-          ",69€
-MELLTORP / NILSOVE,"
-        Mesa y dos sillas,
-          ",188€
-KOARP,"
-        Sillón",199€
-LÅNGFJÄLL,"
-        Silla sala de juntas",119€
-FJÄLLBERGET,"
-        Silla sala de juntas",179€
-STOCKHOLM 2017,"
-        Juego cojines para sillón",100€
+        Silla de trabajo con reposabrazos",199€,https://www.ikea.com/es/es/p/jarvfjallet-silla-trabajo-con-reposabrazos-gunnared-beige-blanco-s59297198/,"
+          La silla giratoria JÄRVFJÄLLET se adapta perfectamente a tu altura y contorno corporal gracias a la posibilidad de regular el reposacabezas, el soporte lumbar y la altura y fondo del asiento.
+          "
 NILS,"
-        Estructura taburete","29,99€"
-INGATORP / INGATORP,"
-        Mesa con 4 sillas,
-          ",655€
-SVENBERTIL,"
-        Silla","39,99€"
-MELLTORP / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","199,96€"
-GLIVARP / NISSE,"
-        Mesa y dos sillas,
-          ",239€
-MELLTORP / JANINGE,"
-        Mesa con 4 sillas,
-          ","159,96€"
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-NORRÅKER / NORRARYD,"
-        Mesa con 4 sillas,
-          ",335€
-POÄNG,"
-        Mecedora",199€
-EKERÖ,"
-        Sillón",149€
-SKOGSTA / SAKARIAS,"
-        Mesa con 4 sillas,
-          ",965€
-EKEDALEN,"
-        Silla",60€
+        Funda taburete",10€,https://www.ikea.com/es/es/p/nils-funda-taburete-blekinge-blanco-10129955/,
+ESPNÄS,"
+        Taburete, plegable","14,99€",https://www.ikea.com/es/es/p/espnas-taburete-plegable-blanco-40341592/,
 HENRIKSDAL,"
-        Funda silla",20€
-IKEA PS 1999,"
-        Sillón",179€
-EKEDALEN,"
-        Funda silla",10€
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-grasbo-blanco-40336595/,
+MUREN,"
+        Sillón reclinable",349€,https://www.ikea.com/es/es/p/muren-sillon-reclinable-nordvalla-beige-90299029/,
+KULLABERG,"
+        Silla giratoria","49,99€",https://www.ikea.com/es/es/p/kullaberg-silla-giratoria-pino-negro-10320341/,
+INGATORP,"
+        Sillón",99€,https://www.ikea.com/es/es/p/ingatorp-sillon-blanco-nordvalla-beige-90246291/,"
+          Una silla cómoda y amplia con unos reposabrazos que resultan muy confortables para apoyar los brazos mientras comes. Además, como se puede meter debajo de la mesa, ocupa poco espacio cuando nadie la usa.
+          "
 BERNHARD,"
-        Silla",149€
-GLIVARP / BERNHARD,"
-        Mesa con 4 sillas,
-          ",845€
-GLIVARP / BERNHARD,"
-        Mesa y dos sillas,
-          ",497€
-SVENBERTIL,"
-        Silla","39,99€"
-EKEDALEN / ODGER,"
-        Mesa y 6 sillas,
-          ",613€
-GAMLARED / STEFAN,"
-        Mesa y dos sillas",119€
-VEBERÖD,"
-        Banco,
-          ",119€
-VALLENTUNA,"
-        Módulo asiento +respaldo",310€
-TINGBY / LEIFARNE,"
-        Mesa y 6 sillas,
-          ","388,94€"
-GRÖNLID,"
-        Chaiselongue",490€
-EKEDALEN / EKEDALEN,"
-        Mesa con 4 sillas,
-          ",369€
-RÖNNINGE,"
-        Silla",79€
-IKEA PS 2012 / JANINGE,"
-        Mesa con 4 sillas,
-          ","268,96€"
-GAMLARED / LERHAMN,"
-        Mesa y dos sillas",159€
-HENRIKSDAL,"
-        Silla",99€
-LANDSKRONA,"
-        Sillón",499€
-NORRNÄS,"
-        Silla",99€
-VIMLE,"
-        Chaiselongue",490€
-LISABO / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
-DELAKTIG,"
-        Sillón",499€
-STORNÄS / KAUSTBY,"
-        Mesa con 4 sillas,
-          ",499€
-VANGSTA / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","258,96€"
-DELAKTIG,"
-        Chaiselongue mesa aux lámpara",604€
-STORNÄS / KAUSTBY,"
-        Mesa y 6 sillas,
-          ",649€
-OPPEBY/BACKARYD / TOBIAS,"
-        Mesa y 6 sillas,
-          ",503€
-KIVIK,"
-        Chaiselongue",599€
-NORDEN / RÅSKOG,"
-        Mesa y 2 taburetes,
-          ","218,98€"
+        Silla",149€,https://www.ikea.com/es/es/p/bernhard-silla-cromado-kavat-mjuk-marron-oscuro-20163802/,"
+          Presenta una estructura cromada y un asiento acolchado y mullido, forrado de piel flor duradera. Resulta muy cómoda, apenas requiere mantenimiento y conserva su belleza con el paso de los años.
+          "
+ALRIK,"
+        Silla giratoria","24,99€",https://www.ikea.com/es/es/p/alrik-silla-giratoria-azul-40214117/,
+NORBERG / NISSE,"
+        Mesa+1 silla,
+          ","59,99€",https://www.ikea.com/es/es/p/norberg-nisse-mesa-1-silla-blanco-cromado-blanco-s79912760/,
+SKÅLBERG / SPORREN,"
+        Silla giratoria","29,99€",https://www.ikea.com/es/es/p/skalberg-sporren-silla-giratoria-negro-s99023601/,
+SKRUVSTA,"
+        Silla giratoria",99€,https://www.ikea.com/es/es/p/skruvsta-silla-giratoria-idhult-negro-80402994/,
 POÄNG,"
-        Mecedora",259€
-HENRIKSDAL,"
-        Tapicería taburete alto",20€
-ÖVRARYD / JANINGE,"
-        Mesa con 4 sillas,
-          ","238,96€"
-BERNHARD,"
-        Silla",149€
-LIDHULT,"
-        Sillón",699€
-EKEDALEN / LEIFARNE,"
+        Sillón",129€,https://www.ikea.com/es/es/p/poang-sillon-chapa-abedul-hillared-antracita-s19197775/,
+STOLJAN,"
+        Silla sala de juntas","39,99€",https://www.ikea.com/es/es/p/stoljan-silla-sala-juntas-blanco-negro-s89907452/,
+YPPERLIG,"
+        Sillón",79€,https://www.ikea.com/es/es/p/ypperlig-sillon-gunnared-gris-oscuro-00346577/,"
+          Inspirada en las clásicas sillas de madera curvada, típicas de los cafés de Viena del siglo XIX. Hecha de una sola pieza, no requiere tornillos ni montaje. Tiene protección contra los rayos UV, por lo que puede usarse tanto en interiores como exteriores.
+          "
+GLIVARP / TOBIAS,"
         Mesa y 6 sillas,
-          ","438,94€"
-LISABO / ODGER,"
-        Mesa con 4 sillas,
-          ",375€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-DOCKSTA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",715€
-HENRIKSDAL,"
-        Silla+funda larga",64€
-BJURSTA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",765€
-OPPEBY/BACKARYD / JANINGE,"
-        Mesa y 6 sillas,
-          ","328,94€"
-EKEDALEN,"
-        Silla",60€
-MARTIN,"
-        Estructura de silla","7,49€"
-EKEDALEN / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","328,96€"
-EKEDALEN / JANINGE,"
-        Mesa y dos sillas,
-          ","158,98€"
-RYGGESTAD/GREBBESTAD / STEFAN,"
-        Mesa con 4 sillas,
-          ",229€
-EKEDALEN / ODGER,"
-        Mesa y 6 sillas,
-          ",613€
-VANGSTA / TEODORES,"
-        Mesa y dos sillas,
-          ",99€
-LISABO / LEIFARNE,"
-        Mesa con 4 sillas,
-          ",335€
-EKEDALEN / LEIFARNE,"
-        Mesa y dos sillas,
-          ","178,98€"
-EKEDALEN / EKEDALEN,"
-        Mesa y dos sillas,
-          ",199€
-NORRÅKER / RÖNNINGE,"
-        Mesa y dos sillas,
-          ",237€
-NORRÅKER / NORRÅKER,"
-        Mesa de bar+2 taburetes bar,
-          ",327€
+          ",603€,https://www.ikea.com/es/es/p/glivarp-tobias-mesa-6-sillas-transparente-transparente-s19197389/,
+KAUSTBY,"
+        Silla",50€,https://www.ikea.com/es/es/p/kaustby-silla-negro-marron-40182244/,
+NORRARYD,"
+        Silla",59€,https://www.ikea.com/es/es/p/norraryd-silla-negro-40280843/,"
+          El diseño se inspira en la tradición escandinava de emplear materiales y estilos sencillos. La suave curva del respaldo te abraza y brinda el apoyo que necesitas. Elige un solo color o combina varios.
+          "
+YPPERLIG,"
+        Taburete",25€,https://www.ikea.com/es/es/p/ypperlig-taburete-haya-20345379/,"
+          El taburete YPPERLIG de madera maciza tiene un asiento en forma de uve que hace que te sientes de forma segura. Puedes tenerlo en el vestíbulo para cuando te pongas los zapatos o moverlo a cualquier otro sitio si necesitas un asiento adicional.
+          "
+BYHOLMA,"
+        Sillón",89€,https://www.ikea.com/es/es/p/byholma-sillon-gris-60158304/,
+AGAM,"
+        Silla alta para niños y niñas","39,99€",https://www.ikea.com/es/es/p/agam-silla-alta-ninos-ninas-negro-70253541/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+VEDBO,"
+        Sillón",199€,https://www.ikea.com/es/es/p/vedbo-sillon-gunnared-azul-50423573/,
+LILLHÖJDEN,"
+        Silla giratoria","69,99€",https://www.ikea.com/es/es/p/lillhojden-silla-giratoria-blekinge-blanco-40238712/,
 DOCKSTA / LEIFARNE,"
         Mesa con 4 sillas,
-          ","278,96€"
-EKEDALEN / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","328,96€"
-EKEDALEN / SVENBERTIL,"
-        Mesa con 4 sillas,
-          ","328,96€"
-HENRIKSDAL,"
-        Taburete alto,
-          ",149€
-NORDEN / IDOLF,"
-        Mesa con 4 sillas,
-          ",435€
-INGATORP / HENRIKSDAL,"
-        Mesa con 4 sillas,
-          ",515€
-STORNÄS / KAUSTBY,"
-        Mesa con 4 sillas,
-          ",499€
-MÖRBYLÅNGA / VOLFGANG,"
-        Mesa con 4 sillas,
-          ",699€
-EKEDALEN / TOBIAS,"
-        Mesa y 6 sillas,
-          ",553€
-EKEDALEN / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","328,96€"
-INGATORP / INGATORP,"
-        Mesa con 4 sillas,
-          ",655€
-TORSBY / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","284,96€"
-SVENBERTIL,"
-        Sillón",59€
-LISABO / LEIFARNE,"
-        Mesa con 4 sillas,
-          ",335€
-HENRIKSDAL,"
-        Tapicería taburete alto",20€
-NORRÅKER / NORRARYD,"
-        Mesa con 4 sillas,
-          ",335€
-EKEDALEN,"
-        Silla",60€
-EKEDALEN / BERNHARD,"
-        Mesa y 6 sillas,
-          ",1.093€
-LEIFARNE,"
-        Silla","39,99€"
-SVENBERTIL,"
-        Sillón",59€
-NORRÅKER / RÖNNINGE,"
-        Mesa y dos sillas,
-          ",237€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-TORSBY / BERNHARD,"
-        Mesa con 4 sillas,
-          ",721€
-TINGBY / LEIFARNE,"
-        Mesa y 6 sillas,
-          ","388,94€"
+          ","278,96€",https://www.ikea.com/es/es/p/docksta-leifarne-mesa-con-4-sillas-blanco-blanco-s69161477/,
+RÅDVIKEN,"
+        Sillón",129€,https://www.ikea.com/es/es/p/radviken-sillon-marron-oscuro-negro-50295472/,
 INGATORP / INGOLF,"
         Mesa con 4 sillas,
-          ",557€
-NORRÅKER / NORRARYD,"
-        Mesa con 4 sillas,
-          ",335€
-STORNÄS / HENRIKSDAL,"
-        Mesa con 4 sillas,
-          ",555€
-LEIFARNE,"
-        Sillón",59€
-EKEDALEN / EKEDALEN,"
-        Mesa y dos sillas,
-          ",199€
-TORSBY / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","284,96€"
-DIETMAR,"
-        Estructura inferior silla+reposabr","34,01€"
-DOCKSTA / JANINGE,"
-        Mesa con 4 sillas,
-          ","238,96€"
-LEIFARNE,"
-        Sillón",59€
-EKEDALEN / ODGER,"
-        Mesa con 4 sillas,
-          ",445€
-NORDEN / IDOLF,"
-        Mesa con 4 sillas,
-          ",435€
-RYGGESTAD/GREBBESTAD / IVAR,"
-        Mesa con 4 sillas,
-          ",229€
-MÖRBYLÅNGA / VOLFGANG,"
-        Mesa con 4 sillas,
-          ",699€
-EKEDALEN / IDOLF,"
-        Mesa con 4 sillas,
-          ",405€
+          ",557€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-con-4-sillas-blanco-nordvalla-beige-s59254165/,
+LANGUR,"
+        Bandeja para sillín de trona",10€,https://www.ikea.com/es/es/p/langur-bandeja-sillin-trona-blanco-70330813/,
 BRORINGE,"
-        Soporte",15€
-EKEDALEN / BERNHARD,"
-        Mesa con 4 sillas,
-          ",765€
+        Soporte",15€,https://www.ikea.com/es/es/p/broringe-soporte-cromado-10288628/,
+HOLMSEL,"
+        Sillón","49,99€",https://www.ikea.com/es/es/p/holmsel-sillon-negro-50234582/,
 EKEDALEN / EKEDALEN,"
-        Mesa y dos sillas,
-          ",199€
-LERHAMN / STEFAN,"
-        Mesa y dos sillas,
-          ",109€
-LIDHULT,"
-        Chaiselongue",1.100€
-EKEDALEN / BERNHARD,"
         Mesa y 6 sillas,
-          ",1.093€
-NORRÅKER / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-EKEDALEN / ODGER,"
-        Mesa con 4 sillas,
-          ",445€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-NORRÅKER / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
-EKEDALEN / JANINGE,"
-        Mesa y dos sillas,
-          ","158,98€"
-OPPEBY/BACKARYD / JANINGE,"
-        Mesa con 4 sillas,
-          ","268,96€"
-EKEDALEN / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","328,96€"
-EKEDALEN / ODGER,"
-        Mesa con 4 sillas,
-          ",445€
-LISABO / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
+          ",499€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-6-sillas-roble-orrsta-gris-claro-s29296850/,
+LANDSKRONA,"
+        Sillón",199€,https://www.ikea.com/es/es/p/landskrona-sillon-gunnared-gris-oscuro-metal-s99269160/,
+LEIFARNE,"
+        Asiento","24,99€",https://www.ikea.com/es/es/p/leifarne-asiento-rosa-40378038/,
 EKEDALEN,"
-        Silla",60€
-VANGSTA / JANINGE,"
-        Mesa y dos sillas,
-          ","118,98€"
-SVENBERTIL,"
-        Sillón",59€
-DELAKTIG,"
-        Sillón +mesa auxiliar +lámpara",521€
-DIETMAR,"
-        Estructura inferior silla+reposabr","34,01€"
-EKEDALEN / ODGER,"
-        Mesa y 6 sillas,
-          ",613€
+        Funda silla",10€,https://www.ikea.com/es/es/p/ekedalen-funda-silla-orrsta-negro-azul-80377046/,
+BERNHARD,"
+        Silla",149€,https://www.ikea.com/es/es/p/bernhard-silla-cromado-mjuk-marron-dorado-50404824/,
+EKEDALEN / EKEDALEN,"
+        Mesa con 4 sillas,
+          ",369€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-con-4-sillas-abedul-orrsta-gris-claro-s69221457/,
+VALLENTUNA,"
+        Módulo sofá cama con reposabrazos",515€,https://www.ikea.com/es/es/p/vallentuna-modulo-sofa-cama-con-reposabrazos-hillared-azul-claro-s89277486/,
+JANINGE,"
+        Sillón",50€,https://www.ikea.com/es/es/p/janinge-sillon-gris-40280517/,"
+          Ante el reto de resolver la ecuación de combinar diseño, función y calidad en una silla, nuestros diseñadores crearon JANINGE. Es lo suficientemente duradera como para usarla en un restaurante y tiene un diseño que te quieres llevar a casa.
+          "
+KARLHUGO,"
+        Silla",119€,https://www.ikea.com/es/es/p/karlhugo-silla-roble-nordvalla-gris-oscuro-80403516/,
 HENRIKSDAL,"
-        Tapicería taburete alto",20€
-VANGSTA / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","258,96€"
-NORRÅKER / RÖNNINGE,"
-        Mesa y dos sillas,
-          ",237€
-EKEDALEN / BERNHARD,"
-        Mesa y dos sillas,
-          ",397€
-JÄRVFJÄLLET,"
-        Reposabrazos 2",30€
-LISABO / SVENBERTIL,"
-        Mesa con 4 sillas,
-          ","258,96€"
-MÖRBYLÅNGA / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","658,96€"
-EKEDALEN / BERNHARD,"
-        Mesa y 6 sillas,
-          ",1.093€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-VÄSTANBY/VÄSTANÅ / BERNHARD,"
-        Mesa con 4 sillas,
-          ",895€
-NORRÅKER / RÖNNINGE,"
-        Mesa con 4 sillas,
-          ",415€
+        Funda larga para silla",25€,https://www.ikea.com/es/es/p/henriksdal-funda-larga-silla-blekinge-blanco-10141170/,
+LEIFARNE,"
+        Asiento","24,99€",https://www.ikea.com/es/es/p/leifarne-asiento-blanco-30288632/,
 LISABO / IDOLF,"
         Mesa con 4 sillas,
-          ",335€
-EKEDALEN / LEIFARNE,"
-        Mesa con 4 sillas,
-          ","328,96€"
-MÖRBYLÅNGA / BERNHARD,"
-        Mesa con 4 sillas,
-          ",1.095€
-NORRÅKER / NORRARYD,"
-        Mesa y dos sillas,
-          ",197€
-NORRÅKER / NORRARYD,"
-        Mesa de bar+2 taburetes bar,
-          ",327€
-EKEDALEN / ODGER,"
-        Mesa y dos sillas,
-          ",237€
-INGATORP / INGATORP,"
-        Mesa con 4 sillas,
-          ",645€
-EKEDALEN / ODGER,"
-        Mesa y 6 sillas,
-          ",613€
-NORRÅKER / NORRARYD,"
-        Mesa y dos sillas,
-          ",197€
-LEIFARNE,"
-        Silla","39,99€"
-EKEDALEN / LEIFARNE,"
-        Mesa y dos sillas,
-          ","178,98€"
-RYGGESTAD/GREBBESTAD / IVAR,"
-        Mesa con 4 sillas,
-          ",229€
-OPPEBY/BACKARYD / JANINGE,"
-        Mesa y 6 sillas,
-          ","328,94€"
-RYGGESTAD/GREBBESTAD / STEFAN,"
-        Mesa con 4 sillas,
-          ",229€
+          ",335€,https://www.ikea.com/es/es/p/lisabo-idolf-mesa-con-4-sillas-negro-negro-s19252187/,"
+          Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.
+          "
 DOCKSTA / JANINGE,"
         Mesa con 4 sillas,
-          ","238,96€"
-VANGSTA / TEODORES,"
-        Mesa y dos sillas",99€
-VÄSTANBY/VÄSTANÅ / LEIFARNE,"
+          ","238,96€",https://www.ikea.com/es/es/p/docksta-janinge-mesa-con-4-sillas-blanco-blanco-s79229797/,
+INGATORP / INGATORP,"
         Mesa con 4 sillas,
-          ","458,96€"
-EKEDALEN / SVENBERTIL,"
+          ",645€,https://www.ikea.com/es/es/p/ingatorp-ingatorp-mesa-con-4-sillas-blanco-s19240750/,
+MARIEBERG,"
+        Cojines para sillones,
+          ","14,99€",https://www.ikea.com/es/es/p/marieberg-cojines-sillones-laila-natural-10080237/,
+INGOLF,"
+        Taburete alto,
+          ",69€,https://www.ikea.com/es/es/p/ingolf-taburete-alto-negro-marron-90248515/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+STOCKHOLM 2017,"
+        Sillón",129€,https://www.ikea.com/es/es/p/stockholm-2017-sillon-ratan-50345066/,"
+          Artesanía de calidad en ratán natural con un tamaño generoso y un diseño sencillo. Queda bien solo o combinado con el armario y la mesita de centro a juego de la serie STOCKHOLM.
+          "
+BALTSAR,"
+        Silla",129€,https://www.ikea.com/es/es/p/baltsar-silla-negro-azul-marron-10413137/,
+EKEDALEN / EKEDALEN,"
+        Mesa y 6 sillas,
+          ",499€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-6-sillas-marron-oscuro-orrsta-gris-claro-s39279567/,
+EKEDALEN / EKEDALEN,"
+        Mesa y 6 sillas,
+          ",499€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-6-sillas-abedul-orrsta-gris-claro-s69296853/,
+HENRIKSDAL,"
+        Estructura taburete alto,
+          ","49,99€",https://www.ikea.com/es/es/p/henriksdal-estructura-taburete-alto-marron-oscuro-40426138/,
+INGATORP / INGOLF,"
+        Mesa y 6 sillas,
+          ",707€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-6-sillas-negro-sporda-gris-oscuro-s09285701/,"
+          Te resultará fácil extenderla cuando lleguen los invitados, y como las patas quedan siempre en la esquina, todo el mundo se sienta cómodamente. Es de estilo clásico y presenta detalles especiales, como las patas torneadas.
+          "
+EKEDALEN / EKEDALEN,"
         Mesa y dos sillas,
-          ","178,98€"
-NORRÅKER / NORRARYD,"
+          ",199€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-dos-sillas-roble-orrsta-gris-claro-s99221390/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+INGOLF,"
+        Taburete","39,99€",https://www.ikea.com/es/es/p/ingolf-taburete-negro-marron-40248527/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+INGATORP / INGOLF,"
+        Mesa con 4 sillas,
+          ",449€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-con-4-sillas-blanco-s29917307/,
+YPPERLIG,"
+        Silla con reposabrz int/ext",59€,https://www.ikea.com/es/es/p/ypperlig-silla-con-reposabrz-int-ext-gris-claro-60346579/,"
+          Inspirada en las clásicas sillas de madera curvada, típicas de los cafés de Viena del siglo XIX. Hecha de una sola pieza, no requiere tornillos ni montaje. Tiene protección contra los rayos UV, por lo que puede usarse tanto en interiores como exteriores.
+          "
+LÅNGFJÄLL,"
+        Silla sala de juntas",99€,https://www.ikea.com/es/es/p/langfjall-silla-sala-juntas-gunnared-beige-blanco-s59252294/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+INGATORP,"
+        Sillón",99€,https://www.ikea.com/es/es/p/ingatorp-sillon-negro-nolhaga-gris-beige-30246289/,"
+          Una silla cómoda y amplia con unos reposabrazos que resultan muy confortables para apoyar los brazos mientras comes. Además, como se puede meter debajo de la mesa, ocupa poco espacio cuando nadie la usa.
+          "
+SAKARIAS,"
+        Tapicería para silla reposabrazos",25€,https://www.ikea.com/es/es/p/sakarias-tapiceria-silla-reposabrazos-sporda-gris-oscuro-60384335/,
+MELLTORP / JANINGE,"
+        Mesa con 4 sillas,
+          ","159,96€",https://www.ikea.com/es/es/p/melltorp-janinge-mesa-con-4-sillas-blanco-blanco-s59161487/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+STORNÄS / KAUSTBY,"
+        Mesa y 6 sillas,
+          ",649€,https://www.ikea.com/es/es/p/stornas-kaustby-mesa-6-sillas-tint-envj-s39161558/,
+VIMUND,"
+        Silla escritorio niño",59€,https://www.ikea.com/es/es/p/vimund-silla-escritorio-nino-verde-vivo-50308667/,"
+          Muchos niños no consiguen parar quietos, así que esta silla es ideal para ellos, ya que gira y se reclina adaptándose a sus movimientos y presenta un diseño ergonómico que les brinda el soporte ideal.
+          "
+LEIFARNE,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/leifarne-silla-azul-claro-broringe-negro-s29197708/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+LERHAMN,"
         Mesa y dos sillas,
-          ",197€
-MÖRBYLÅNGA / BERNHARD,"
+          ",149€,https://www.ikea.com/es/es/p/lerhamn-mesa-dos-sillas-negro-marron-vittaryd-beige-s49007180/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+ALEFJÄLL,"
+        Silla de trabajo",249€,https://www.ikea.com/es/es/p/alefjall-silla-trabajo-glose-negro-70367458/,"
+          Su auténtica piel flor proporciona una suavidad y confort insuperables, y como el asiento y el respaldo se pueden inclinar y regular en altura, la silla te proporciona el mejor soporte posible. Diseñada para durar muchos años de subidas y bajadas.
+          "
+PLATSA,"
+        Banco con cajón,
+          ",120€,https://www.ikea.com/es/es/p/platsa-banco-con-cajon-blanco-sannidal-blanco-s99203819/,
+GRÖNADAL,"
+        Mecedora",199€,https://www.ikea.com/es/es/p/gronadal-mecedora-gris-natural-90320097/,"
+          Las mecedoras GRÖNADAL son únicas, ya que están hechas de forma artesanal con madera de fresno y mimbre. Su ligereza y sus materiales naturales recuerdan al diseño escandinavo moderno. Quedan bien en casi cualquier sitio.
+          "
+FANBYN,"
+        Sillón",69€,https://www.ikea.com/es/es/p/fanbyn-sillon-blanco-s09221016/,
+EKEDALEN / EKEDALEN,"
         Mesa con 4 sillas,
-          ",1.095€
-RYDEBÄCK/BACKARYD / JANINGE,"
+          ",369€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-con-4-sillas-marron-orrsta-gris-claro-s29221435/,
+LERHAMN,"
         Mesa con 4 sillas,
-          ","198,96€"
-EKEDALEN / IDOLF,"
-        Mesa con 4 sillas,
-          ",405€
+          ",259€,https://www.ikea.com/es/es/p/lerhamn-mesa-con-4-sillas-negro-marron-vittaryd-beige-s09007163/,
+BUSSAN,"
+        Puf para interior o exterior",99€,https://www.ikea.com/es/es/p/bussan-puf-interior-exterior-gris-50312909/,
+RÅSKOG,"
+        Taburete alto,
+          ","29,99€",https://www.ikea.com/es/es/p/raskog-taburete-alto-negro-30352246/,
+MELLTORP / TEODORES,"
+        Mesa y dos sillas,
+          ",70€,https://www.ikea.com/es/es/p/melltorp-teodores-mesa-dos-sillas-blanco-blanco-s39296901/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+HENRIKSDAL,"
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-lingbo-multicolor-70437927/,
+LÅNGFJÄLL,"
+        Silla de trabajo",129€,https://www.ikea.com/es/es/p/langfjall-silla-trabajo-gunnared-marron-rosa-claro-blanco-s49252398/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+GRÖNLID,"
+        Sillón",199€,https://www.ikea.com/es/es/p/gronlid-sillon-inseros-blanco-s19275909/,"
+          GRÖNLID es un sillón clásico que se caracteriza por detalles de diseño tradicional como las patas curvadas y los reposabrazos blandos y redondeados.
+          "
+SVENBERTIL,"
+        Silla",59€,https://www.ikea.com/es/es/p/svenbertil-silla-blanco-ernfrid-abedul-s59197702/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+RÅSKOG,"
+        Taburete","19,99€",https://www.ikea.com/es/es/p/raskog-taburete-negro-60351900/,
+RÖNNINGE,"
+        Silla",79€,https://www.ikea.com/es/es/p/ronninge-silla-abedul-10422504/,
+INGOLF,"
+        Silla alta para niños y niñas","39,99€",https://www.ikea.com/es/es/p/ingolf-silla-alta-ninos-ninas-blanco-90146456/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+ALLSTA,"
+        Silla","29,99€",https://www.ikea.com/es/es/p/allsta-silla-ransta-gris-oscuro-negro-60313036/,
+EKEDALEN / HENRIKSDAL,"
+        Mesa y 6 sillas,
+          ",793€,https://www.ikea.com/es/es/p/ekedalen-henriksdal-mesa-6-sillas-marron-oscuro-glose-negro-s69221320/,
+MELLTORP / NISSE,"
+        Mesa+2 sillas plegables,
+          ",50€,https://www.ikea.com/es/es/p/melltorp-nisse-mesa-2-sillas-plegables-blanco-azul-oscuro-lila-s39280698/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+LEIFARNE,"
+        Asiento","24,99€",https://www.ikea.com/es/es/p/leifarne-asiento-azul-claro-10291918/,
 EKEDALEN / BERNHARD,"
         Mesa y 6 sillas,
-          ",1.093€
-DIETMAR,"
-        Estructura inferior silla+reposabr","34,01€"
-DOCKSTA / BERNHARD,"
+          ",1.093€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-6-sillas-marron-mjuk-blanco-s99221446/,
+TINGBY / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","388,94€",https://www.ikea.com/es/es/p/tingby-leifarne-mesa-6-sillas-blanco-blanco-s39221190/,
+EKEDALEN / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","438,94€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-6-sillas-roble-blanco-s49229223/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+BYHOLMA,"
+        Sillón","103,99€",https://www.ikea.com/es/es/p/byholma-sillon-gris-laila-natural-s09896891/,
+MELLTORP / NISSE,"
+        Mesa+2 sillas plegables,
+          ",70€,https://www.ikea.com/es/es/p/melltorp-nisse-mesa-2-sillas-plegables-blanco-blanco-s19161489/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+HENRIKSDAL,"
+        Silla",59€,https://www.ikea.com/es/es/p/henriksdal-silla-marron-dansbo-gris-oscuro-s69220354/,
+GRÖNLID,"
+        Chaiselongue",390€,https://www.ikea.com/es/es/p/gronlid-chaiselongue-inseros-blanco-s39254816/,
+DOCKSTA / JANINGE,"
         Mesa con 4 sillas,
-          ",715€
+          ","238,96€",https://www.ikea.com/es/es/p/docksta-janinge-mesa-con-4-sillas-blanco-blanco-s09161480/,
+LISABO / LEIFARNE,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/lisabo-leifarne-mesa-con-4-sillas-chapa-fresno-blanco-s29161484/,
+FINNTORP,"
+        Sillón",69€,https://www.ikea.com/es/es/p/finntorp-sillon-blanco-60201680/,
+LEIFARNE,"
+        Silla",59€,https://www.ikea.com/es/es/p/leifarne-silla-azul-claro-ernfrid-abedul-s99127806/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+EKEDALEN / EKEDALEN,"
+        Mesa y dos sillas,
+          ",199€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-dos-sillas-blanco-orrsta-gris-claro-s89296866/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+SVENBERTIL,"
+        Asiento","24,99€",https://www.ikea.com/es/es/p/svenbertil-asiento-negro-00288638/,
+LERHAMN,"
+        Mesa y dos sillas,
+          ",149€,https://www.ikea.com/es/es/p/lerhamn-mesa-dos-sillas-tinte-envejecido-claro-vittaryd-beige-s49007203/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+BERNHARD,"
+        Taburete alto,
+          ",179€,https://www.ikea.com/es/es/p/bernhard-taburete-alto-cromado-kavat-mjuk-blanco-00272656/,"
+          Presenta una estructura cromada y un asiento acolchado y mullido, forrado de piel flor duradera. Resulta muy cómoda, apenas requiere mantenimiento y conserva su belleza con el paso de los años.
+          "
+DOCKSTA / TOBIAS,"
+        Mesa con 4 sillas,
+          ",355€,https://www.ikea.com/es/es/p/docksta-tobias-mesa-con-4-sillas-blanco-transparente-s99229800/,
+STOCKHOLM 2017,"
+        Juego cojines para sillón",70€,https://www.ikea.com/es/es/p/stockholm-2017-juego-cojines-sillon-rostanga-blanco-90345069/,
+ERNFRID,"
+        Soporte","34,01€",https://www.ikea.com/es/es/p/ernfrid-soporte-abedul-gris-plata-00287974/,
+INGATORP / INGOLF,"
+        Mesa y 6 sillas,
+          ",647€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-6-sillas-negro-nolhaga-gris-beige-s39280679/,
+GRÖNLID,"
+        Sillón",249€,https://www.ikea.com/es/es/p/gronlid-sillon-kimstad-marron-oscuro-00399033/,"
+          GRÖNLID es un sillón clásico que se caracteriza por detalles de diseño tradicional como las patas curvadas y los reposabrazos blandos y redondeados.
+          "
+OPPEBY/BACKARYD / TOBIAS,"
+        Mesa y 6 sillas,
+          ",503€,https://www.ikea.com/es/es/p/oppeby-backaryd-tobias-mesa-6-sillas-blanco-cromado-transparente-s89229688/,
+MELLTORP / TEODORES,"
+        Mesa con 4 sillas,
+          ",120€,https://www.ikea.com/es/es/p/melltorp-teodores-mesa-con-4-sillas-blanco-naranja-claro-s19252168/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+LERHAMN / STEFAN,"
+        Mesa con 4 sillas,
+          ",179€,https://www.ikea.com/es/es/p/lerhamn-stefan-mesa-con-4-sillas-negro-marron-negro-marron-s29296893/,
+SVENBERTIL,"
+        Asiento","24,99€",https://www.ikea.com/es/es/p/svenbertil-asiento-blanco-30339896/,
+MELLTORP / TEODORES,"
+        Mesa con 4 sillas",120€,https://www.ikea.com/es/es/p/melltorp-teodores-mesa-con-4-sillas-blanco-s79286033/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+INGATORP / INGOLF,"
+        Mesa con 4 sillas,
+          ",449€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-con-4-sillas-negro-negro-marron-s19297157/,
+BYHOLMA,"
+        Sillón","108,99€",https://www.ikea.com/es/es/p/byholma-sillon-gris-blanco-s39898271/,
+MELLTORP / TEODORES,"
+        Mesa y dos sillas,
+          ",70€,https://www.ikea.com/es/es/p/melltorp-teodores-mesa-dos-sillas-blanco-naranja-claro-s99296899/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+YPPERLIG,"
+        Sillón",69€,https://www.ikea.com/es/es/p/ypperlig-sillon-gunnared-gris-oscuro-80346578/,"
+          Inspirada en las clásicas sillas de madera curvada, típicas de los cafés de Viena del siglo XIX. Hecha de una sola pieza, no requiere tornillos ni montaje. Tiene protección contra los rayos UV, por lo que puede usarse tanto en interiores como exteriores.
+          "
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-marron-oscuro-gunnared-verde-oscuro-s29265274/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+VALLENTUNA,"
+        Módulo asiento +respaldo",430€,https://www.ikea.com/es/es/p/vallentuna-modulo-asiento-respaldo-murum-blanco-s19277480/,
+TOSSBERG,"
+        Silla",179€,https://www.ikea.com/es/es/p/tossberg-silla-metal-gris-plata-finnsta-blanco-50400449/,"
+          Una silla diseñada para sentarse a la mesa con la familia y amigos. La suavidad del relleno, el soporte lumbar y la estabilidad le proporcionan gran comodidad, incluso en largas sobremesas.
+          "
+LÅNGFJÄLL,"
+        Silla de trabajo con reposabrazos",149€,https://www.ikea.com/es/es/p/langfjall-silla-trabajo-con-reposabrazos-gunnared-azul-blanco-s69252769/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+TORSBY / VOLFGANG,"
+        Mesa con 4 sillas",325€,https://www.ikea.com/es/es/p/torsby-volfgang-mesa-con-4-sillas-alto-brillo-blanco-bomstad-negro-s99251853/,
+MELLTORP / MARIUS,"
+        Mesa y 2 taburetes,
+          ",38€,https://www.ikea.com/es/es/p/melltorp-marius-mesa-2-taburetes-blanco-negro-s99011764/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+EKEDALEN / EKEDALEN,"
+        Mesa +2sillas+banco,
+          ",348€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-2sillas-banco-marron-oscuro-orrsta-gris-claro-s79221310/,
+KOARP,"
+        Sillón",139€,https://www.ikea.com/es/es/p/koarp-sillon-orrsta-azul-claro-negro-s99221743/,"
+          Solo o con otros muebles, colorido o discreto, este sofá siempre resulta confortable e incorpora un práctico bolsillo de almacenaje oculto.
+          "
+KAUSTBY,"
+        Silla",50€,https://www.ikea.com/es/es/p/kaustby-silla-tint-envj-40044196/,
+GAMLEBY,"
+        Mesa con 4 sillas,
+          ","448,96€",https://www.ikea.com/es/es/p/gamleby-mesa-con-4-sillas-tinte-envejecido-claro-gris-s49007217/,
+AGAM,"
+        Silla alta para niños y niñas","39,99€",https://www.ikea.com/es/es/p/agam-silla-alta-ninos-ninas-blanco-90253535/,"
+          Si tu hijo es demasiado mayor para una trona pero pequeño para una silla normal, opta por una silla júnior: suficientemente alta para llegar a la mesa y con sitio para poner los pies. Ideal para disfrutar comiendo y haciendo manualidades.
+          "
+MÖRBYLÅNGA / ODGER,"
+        Mesa con 4 sillas,
+          ",775€,https://www.ikea.com/es/es/p/morbylanga-odger-mesa-con-4-sillas-marron-blanco-beige-s99246098/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+POÄNG,"
+        Mecedora",259€,https://www.ikea.com/es/es/p/poang-mecedora-chapa-abedul-robust-glose-marron-oscuro-s49861007/,"
+          Un diseño sencillo e intemporal que sigue triunfando en nuestras tiendas después de 40 años. Como gusta a personas de todas las edades, lo hemos hecho en tamaño para adultos y niños. Además, puedes elegir entre un montón de fundas lavables.
+          "
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-roble-gunnared-verde-oscuro-s69265286/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+TOSSBERG,"
+        Silla",179€,https://www.ikea.com/es/es/p/tossberg-silla-metal-negro-gris-90435324/,"
+          Una silla diseñada para sentarse a la mesa con la familia y amigos. La suavidad del relleno, el soporte lumbar y la estabilidad le proporcionan gran comodidad, incluso en largas sobremesas.
+          "
+SÖDERHAMN,"
+        Chaiselongue",330€,https://www.ikea.com/es/es/p/soderhamn-chaiselongue-finnsta-turquesa-s79135746/,
+TORSBY / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","284,96€",https://www.ikea.com/es/es/p/torsby-leifarne-mesa-con-4-sillas-alto-brillo-blanco-blanco-s79161561/,
+BERNHARD,"
+        Taburete alto,
+          ",179€,https://www.ikea.com/es/es/p/bernhard-taburete-alto-cromado-mjuk-rojo-oscuro-40404848/,
+TROLLBERGET,"
+        Soporte sentado/de pie",89€,https://www.ikea.com/es/es/p/trollberget-soporte-sentado-de-pie-glose-negro-80379347/,
+SALTHOLMEN,"
+        Silla jardín",20€,https://www.ikea.com/es/es/p/saltholmen-silla-jardin-plegable-beige-80311828/,
+ESPNÄS,"
+        Taburete, plegable","14,99€",https://www.ikea.com/es/es/p/espnas-taburete-plegable-negro-20341593/,
+EKEDALEN / EKEDALEN,"
+        Mesa y 6 sillas,
+          ",499€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-6-sillas-marron-orrsta-gris-claro-s19221450/,
+INGO / FRODE,"
+        Mesa con 4 sillas,
+          ","188,96€",https://www.ikea.com/es/es/p/ingo-frode-mesa-con-4-sillas-pino-turquesa-s19932073/,
+VEDBO,"
+        Sillón con respaldo alto",299€,https://www.ikea.com/es/es/p/vedbo-sillon-con-respaldo-alto-gunnared-azul-40423583/,
+TINGBY / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","388,94€",https://www.ikea.com/es/es/p/tingby-leifarne-mesa-6-sillas-blanco-azul-claro-s29221195/,
+POÄNG,"
+        Sillón",129€,https://www.ikea.com/es/es/p/poang-sillon-negro-marron-hillared-antracita-s19197780/,
+STORSELE,"
+        Sillón con respaldo alto",99€,https://www.ikea.com/es/es/p/storsele-sillon-con-respaldo-alto-negro-ratan-20201682/,
+IKEA PS 2012 / TEODORES,"
+        Mesa y dos sillas",189€,https://www.ikea.com/es/es/p/ikea-ps-2012-teodores-mesa-dos-sillas-bambu-blanco-blanco-s89221475/,
+STRANDMON,"
+        Sillón orejero",179€,https://www.ikea.com/es/es/p/strandmon-sillon-orejero-nordvalla-rojo-40433247/,"
+          La primera vez que introdujimos esta popular silla en el surtido fue en los años cincuenta. Casi 60 años después, la recuperamos con el mismo aspecto, comodidad y diseño artesanal. ¡Disfrútala!
+          "
+LYCKSELE LÖVÅS,"
+        Sillón cama",169€,https://www.ikea.com/es/es/p/lycksele-lovas-sillon-cama-vallarum-fucsia-s59280843/,
+KIVIK,"
+        Chaiselongue",200€,https://www.ikea.com/es/es/p/kivik-chaiselongue-lejde-gris-negro-s49291738/,"
+          Al tener los reposabrazos bajos y ser amplio y de espuma viscoelástica, un material que se adapta a la forma de tu cuerpo, en el sofá KIVIK disfrutarás de largas y cómodas horas de descanso y relax, solo o en compañía.
+          "
+LYCKSELE MURBO,"
+        Sillón cama",219€,https://www.ikea.com/es/es/p/lycksele-murbo-sillon-cama-vallarum-fucsia-s69280847/,
+NILSOVE,"
+        Silla con reposabrazos",79€,https://www.ikea.com/es/es/p/nilsove-silla-con-reposabrazos-ratan-blanco-50434312/,"
+          Este sillón de ratán y bambú ha sido trenzado a mano lo que lo hace único. Los reposabrazos te permiten sentarte cómodamente y disfrutar de largas sobremesas. Una buena forma de que la naturaleza entre en tu hogar.
+          "
+LYCKSELE HÅVET,"
+        Sillón cama",269€,https://www.ikea.com/es/es/p/lycksele-havet-sillon-cama-vallarum-fucsia-s59280838/,
+NORRÅKER,"
+        Banco,
+          ",79€,https://www.ikea.com/es/es/p/norraker-banco-abedul-60428990/,
+EKTORP,"
+        Sillón",209€,https://www.ikea.com/es/es/p/ektorp-sillon-lingbo-multicolor-s99257096/,"
+          Nuestra querida serie EKTORP presenta un diseño intemporal y unos cojines de lo más mullidos y cómodos. Como las fundas son fáciles de poner y quitar, compra una de más (o dos) y cámbiala según tu estado de ánimo o la estación del año.
+          "
+OMTÄNKSAM,"
+        Sillón",229€,https://www.ikea.com/es/es/p/omtanksam-sillon-orrsta-negro-azul-20400120/,"
+          Hay momentos en la vida en los que necesitamos ayuda. La serie OMTÄNKSAM ha sido creada para facilitar la vida a las personas que lo necesitan y que puedan vivir de una forma más segura y autónoma.
+          "
+BUSKBO,"
+        Sillón","148,99€",https://www.ikea.com/es/es/p/buskbo-sillon-ratan-djupvik-blanco-s79299016/,
+TÄNKVÄRD,"
+        Taburete","39,99€",https://www.ikea.com/es/es/p/tankvard-taburete-ratan-50429339/,
+EKENÄS,"
+        Sillón",229€,https://www.ikea.com/es/es/p/ekenas-sillon-hensta-marron-claro-00276664/,
+POÄNG,"
+        Sillón",189€,https://www.ikea.com/es/es/p/poang-sillon-chapa-abedul-robust-glose-marron-oscuro-s89829119/,"
+          Un diseño sencillo e intemporal que sigue triunfando en nuestras tiendas después de 40 años. Como gusta a personas de todas las edades, lo hemos hecho en tamaño para adultos y niños. Además, puedes elegir entre un montón de fundas lavables.
+          "
+NORRÅKER,"
+        Taburete,
+          ","29,99€",https://www.ikea.com/es/es/p/norraker-taburete-abedul-00428974/,
+TÄNKVÄRD,"
+        Sillón",99€,https://www.ikea.com/es/es/p/tankvard-sillon-ratan-00429389/,
+POÄNG,"
+        Mecedora",199€,https://www.ikea.com/es/es/p/poang-mecedora-chapa-roble-tinte-blanco-hillared-antracita-s99286659/,
+ALBACKEN,"
+        Sillón",69€,https://www.ikea.com/es/es/p/albacken-sillon-ratan-natural-30430414/,"
+          Con motivo de nuestro septuagésimo quinto aniversario hemos creado una colección especial recopilando algunos de nuestros clásicos. ¿Recuerdas en qué década lanzamos este producto?
+          "
+YPPERLIG / NILSOVE,"
+        Mesa con 4 sillas,
+          ",475€,https://www.ikea.com/es/es/p/ypperlig-nilsove-mesa-con-4-sillas-fresno-ratan-blanco-s69297292/,
+HENRIKSDAL,"
+        Silla con funda",59€,https://www.ikea.com/es/es/p/henriksdal-silla-con-funda-marron-oscuro-nykvarn-rojo-s09297092/,"
+          Después de una comida larga y agradable, tranquiliza saber que las fundas se pueden lavar. Probablemente HENRIKSDAL es nuestra silla más cómoda. Cada vez que la uses te acordarás de lo agradable y relajante que resulta su asiento mullido.
+          "
+EKERÖ,"
+        Sillón",129€,https://www.ikea.com/es/es/p/ekero-sillon-idekulla-azul-60402570/,
+HENRIKSDAL,"
+        Silla con funda",59€,https://www.ikea.com/es/es/p/henriksdal-silla-con-funda-blanco-djuparp-verde-s19297082/,"
+          Después de una comida larga y agradable, tranquiliza saber que las fundas se pueden lavar. Probablemente HENRIKSDAL es nuestra silla más cómoda. Cada vez que la uses te acordarás de lo agradable y relajante que resulta su asiento mullido.
+          "
+BJURÅN,"
+        Silla",69€,https://www.ikea.com/es/es/p/bjuran-silla-rojo-oscuro-40422442/,"
+          Con motivo de nuestro septuagésimo quinto aniversario hemos creado una colección especial recopilando algunos de nuestros clásicos. ¿Recuerdas en qué década lanzamos este producto?
+          "
+LIDHULT,"
+        Sillón",349€,https://www.ikea.com/es/es/p/lidhult-sillon-gassebol-azul-gris-s09256893/,
+INGO / IVAR,"
+        Mesa con 4 sillas,
+          ",149€,https://www.ikea.com/es/es/p/ingo-ivar-mesa-con-4-sillas-pino-s49097350/,
+INGATORP / INGOLF,"
+        Mesa y 6 sillas,
+          ",647€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-6-sillas-blanco-nordvalla-beige-s19280680/,
+LÅNGFJÄLL,"
+        Silla juntas con reposabrazos",119€,https://www.ikea.com/es/es/p/langfjall-silla-juntas-con-reposabrazos-gunnared-marron-rosa-claro-blanco-s89252589/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+POÄNG,"
+        Sillón",189€,https://www.ikea.com/es/es/p/poang-sillon-negro-marron-glose-robust-marron-oscuro-s59829125/,"
+          Un diseño sencillo e intemporal que sigue triunfando en nuestras tiendas después de 40 años. Como gusta a personas de todas las edades, lo hemos hecho en tamaño para adultos y niños. Además, puedes elegir entre un montón de fundas lavables.
+          "
+LERHAMN,"
+        Mesa con 4 sillas,
+          ",259€,https://www.ikea.com/es/es/p/lerhamn-mesa-con-4-sillas-tinte-envejecido-claro-vittaryd-beige-s19007172/,
+LÅNGFJÄLL,"
+        Silla juntas con reposabrazos",139€,https://www.ikea.com/es/es/p/langfjall-silla-juntas-con-reposabrazos-gunnared-marron-rosa-claro-blanco-s69252646/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+POÄNG,"
+        Mecedora",199€,https://www.ikea.com/es/es/p/poang-mecedora-chapa-abedul-hillared-antracita-s39201026/,
+SKOGSTA / NORRARYD,"
+        Mesa y 6 sillas,
+          ",803€,https://www.ikea.com/es/es/p/skogsta-norraryd-mesa-6-sillas-acacia-negro-s19246144/,
+VIMLE,"
+        Chaiselongue",460€,https://www.ikea.com/es/es/p/vimle-chaiselongue-gunnared-beige-s49298259/,"
+          La serie de sofás VIMLE ofrece módulos que puedes combinar a tu gusto para personalizar la solución. Así, a medida que crezca la familia o la casa, puedes completar el sofá para que se adapte a las novedades.
+          "
+DELAKTIG,"
+        Chaiselongue con reposabrazos",519€,https://www.ikea.com/es/es/p/delaktig-chaiselongue-con-reposabrazos-gunnared-gris-s49289472/,"
+          La chaiselongue es ideal para dar una cabezadita o para ver relajadamente una película por la noche. El reposabrazos se puede fijar en el lado que prefieras.
+          "
+NORRÅKER,"
+        Taburete alto,
+          ",89€,https://www.ikea.com/es/es/p/norraker-taburete-alto-abedul-20429010/,"
+          La sencillez del diseño escandinavo se hace presente en cada silla. Puedes elegir entre barniz incoloro o negro, o una mezcla de ambos. Está aprobada para su uso en espacios públicos, así que aguanta las embestidas de los niños más inquietos.
+          "
+FANBYN,"
+        Sillón",69€,https://www.ikea.com/es/es/p/fanbyn-sillon-gris-s39284639/,
+HENRIKSDAL,"
+        Taburete con funda,
+          ","69,99€",https://www.ikea.com/es/es/p/henriksdal-taburete-con-funda-marron-oscuro-djuparp-verde-s09297087/,"
+          Después de una comida larga y agradable, tranquiliza saber que las fundas se pueden lavar. Probablemente HENRIKSDAL es nuestra silla más cómoda. Cada vez que la uses te acordarás de lo agradable y relajante que resulta su asiento mullido.
+          "
+POÄNG,"
+        Mecedora",199€,https://www.ikea.com/es/es/p/poang-mecedora-negro-marron-hillared-beige-s29197925/,
+HENRIKSDAL,"
+        Silla",99€,https://www.ikea.com/es/es/p/henriksdal-silla-marron-oscuro-glose-negro-00380948/,
+HENRIKSDAL,"
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-djuparp-verde-oscuro-90437912/,
+LÅNGFJÄLL,"
+        Silla de trabajo",149€,https://www.ikea.com/es/es/p/langfjall-silla-trabajo-gunnared-marron-rosa-claro-blanco-s99252541/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+INGOLF,"
+        Taburete alto,
+          ",69€,https://www.ikea.com/es/es/p/ingolf-taburete-alto-tint-envj-90217811/,"
+          La serie INGOLF queda igual de bien en la cocina que en el comedor, el dormitorio o el pasillo. Su construcción de madera maciza aguanta bien los golpes.
+          "
+SLÄHULT/DALSHULT / LEIFARNE,"
+        Mesa con 4 sillas,
+          ",435€,https://www.ikea.com/es/es/p/slahult-dalshult-leifarne-mesa-con-4-sillas-abedul-blanco-s19130501/,
+VÅGSBERG / SPORREN,"
+        Silla giratoria","69,99€",https://www.ikea.com/es/es/p/vagsberg-sporren-silla-giratoria-chapa-abedul-negro-s89006664/,
+FÄRLÖV,"
+        Sillón",449€,https://www.ikea.com/es/es/p/farlov-sillon-djuparp-beige-dorado-s69192394/,"
+          Será tu mejor compañía en una noche de cine frente al televisor y el centro de atención de la habitación. Hemos pensado en todo, desde los cómodos cojines del asiento hasta los reposabrazos redondeados y las fundas suaves.
+          "
+JÄRVFJÄLLET,"
+        Silla de trabajo",169€,https://www.ikea.com/es/es/p/jarvfjallet-silla-trabajo-gunnared-beige-70419952/,"
+          La silla giratoria JÄRVFJÄLLET se adapta perfectamente a tu altura y contorno corporal gracias a la posibilidad de regular el reposacabezas, el soporte lumbar y la altura y fondo del asiento.
+          "
+GAMLARED / STEFAN,"
+        Mesa y dos sillas",119€,https://www.ikea.com/es/es/p/gamlared-stefan-mesa-dos-sillas-tinte-envejecido-claro-negro-marron-s59221165/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+LIDHULT,"
+        Chaiselongue",550€,https://www.ikea.com/es/es/p/lidhult-chaiselongue-gassebol-azul-gris-s09266118/,
+RÅSKOG,"
+        Taburete alto,
+          ","29,99€",https://www.ikea.com/es/es/p/raskog-taburete-alto-beige-30308395/,
+IKEA PS 2017,"
+        Sillón",179€,https://www.ikea.com/es/es/p/ikea-ps-2017-sillon-rosa-azul-80362950/,
+LANGUR,"
+        Funda acolchada silla júnior",6€,https://www.ikea.com/es/es/p/langur-funda-acolchada-silla-junior-gris-50346985/,
+EKEDALEN,"
+        Taburete alto,
+          ",69€,https://www.ikea.com/es/es/p/ekedalen-taburete-alto-marron-oscuro-orrsta-gris-claro-10400540/,
+LERHAMN,"
+        Silla",40€,https://www.ikea.com/es/es/p/lerhamn-silla-tinte-envejecido-claro-vittaryd-beige-20259423/,
+VALLENTUNA,"
+        Módulo asiento +respaldo",310€,https://www.ikea.com/es/es/p/vallentuna-modulo-asiento-respaldo-orrsta-gris-claro-s79277444/,
+INDUSTRIELL,"
+        Silla",79€,https://www.ikea.com/es/es/p/industriell-silla-pino-00394506/,
+FANBYN,"
+        Sillón",69€,https://www.ikea.com/es/es/p/fanbyn-sillon-gris-s19284640/,
+LANDSKRONA,"
+        Chaiselongue, módulo adicional",600€,https://www.ikea.com/es/es/p/landskrona-chaiselongue-modulo-adicional-grann-bomstad-verde-gris-metal-s09275735/,"
+          Hemos utilizado un relleno de espuma de resiliencia para aportar comodidad, piel gruesa de flor en las zonas de contacto para darle un toque especial, y un tejido revestido muy duradero en el resto del mueble para mantener el precio bajo.
+          "
+POÄNG,"
+        Mecedora",259€,https://www.ikea.com/es/es/p/poang-mecedora-negro-marron-glose-robust-marron-oscuro-s59900857/,"
+          Un diseño sencillo e intemporal que sigue triunfando en nuestras tiendas después de 40 años. Como gusta a personas de todas las edades, lo hemos hecho en tamaño para adultos y niños. Además, puedes elegir entre un montón de fundas lavables.
+          "
+IKEA PS 1999,"
+        Sillón",179€,https://www.ikea.com/es/es/p/ikea-ps-1999-sillon-orrsta-rojo-70430582/,"
+          Con motivo de nuestro septuagésimo quinto aniversario hemos creado una colección especial recopilando algunos de nuestros clásicos. ¿Recuerdas en qué década lanzamos este producto?
+          "
+MELLTORP / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","199,96€",https://www.ikea.com/es/es/p/melltorp-leifarne-mesa-con-4-sillas-blanco-rosa-s59220364/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+LANDSKRONA,"
+        Sillón",499€,https://www.ikea.com/es/es/p/landskrona-sillon-grann-bomstad-blanco-madera-s69031805/,"
+          Hemos utilizado un relleno de espuma de resiliencia para aportar comodidad, piel gruesa de flor en las zonas de contacto para darle un toque especial, y un tejido revestido muy duradero en el resto del mueble para mantener el precio bajo.
+          "
+LÅNGFJÄLL,"
+        Silla sala de juntas",119€,https://www.ikea.com/es/es/p/langfjall-silla-sala-juntas-gunnared-marron-rosa-claro-blanco-s69252359/,"
+          Sus suaves líneas curvas subrayadas por detalles cosidos en la tela se adaptan a tu cuerpo y gustan a la vista. Su mecanismo de inclinación y regulación de la altura está diseñado para durar muchos años de subidas y bajadas.
+          "
+TINGBY / NILSOVE,"
+        Mesa con 4 sillas,
+          ",465€,https://www.ikea.com/es/es/p/tingby-nilsove-mesa-con-4-sillas-blanco-ratan-blanco-s49297293/,
+GLIVARP / BERNHARD,"
+        Mesa y dos sillas,
+          ",497€,https://www.ikea.com/es/es/p/glivarp-bernhard-mesa-dos-sillas-transparente-mjuk-blanco-s99259825/,"
+          El tablero de cristal deja pasar la luz permitiendo que la mesa se funda con el espacio, incluso si es pequeño. Además, como no es muy pesada, se puede extender cómodamente para los invitados y el vidrio templado resulta fácil de limpiar.
+          "
+EKEDALEN / ODGER,"
+        Mesa y 6 sillas,
+          ",613€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-6-sillas-abedul-azul-s99229211/,
+DELAKTIG,"
+        Sillón plataforma",306€,https://www.ikea.com/es/es/p/delaktig-sillon-plataforma-gunnared-gris-s29289487/,"
+          Añade una mesa e iluminación. Cambia el respaldo y quita el reposabrazos. Prueba una funda nueva. Con DELAKTIG la nueva plataforma diseñada por IKEA y Tom Dixon creas lo que quieres y a tu gusto.
+          "
+HENRIKSDAL,"
+        Funda silla",20€,https://www.ikea.com/es/es/p/henriksdal-funda-silla-nykvarn-rojo-oscuro-70438564/,
+FJÄLLBERGET,"
+        Silla sala de juntas",179€,https://www.ikea.com/es/es/p/fjallberget-silla-sala-juntas-chapa-fresno-c-tinte-negro-gunnared-gris-oscuro-20396420/,
+LISABO / LEIFARNE,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/lisabo-leifarne-mesa-con-4-sillas-chapa-fresno-azul-claro-s89130381/,
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-blanco-gunnared-verde-oscuro-s09265270/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-tinte-marron-mjuk-marron-dorado-s49290116/,
+NORRARYD,"
+        Silla",59€,https://www.ikea.com/es/es/p/norraryd-silla-rojo-80273096/,"
+          El diseño se inspira en la tradición escandinava de emplear materiales y estilos sencillos. La suave curva del respaldo te abraza y brinda el apoyo que necesitas. Elige un solo color o combina varios.
+          "
+BJURSTA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",765€,https://www.ikea.com/es/es/p/bjursta-bernhard-mesa-con-4-sillas-negro-marron-kavat-marron-oscuro-s29885556/,
+NORRNÄS,"
+        Silla",99€,https://www.ikea.com/es/es/p/norrnas-silla-blanco-isunda-gris-50185303/,"
+          La base de cualquier buena conversación es una silla cómoda con un respaldo alto y curvo y un asiento acolchado. La silla NORRNÄS ofrece todo esto en un diseño sencillo típicamente escandinavo.
+          "
+EKEDALEN,"
+        Funda silla",10€,https://www.ikea.com/es/es/p/ekedalen-funda-silla-gunnared-verde-oscuro-20377049/,
+EKERÖ,"
+        Sillón",149€,https://www.ikea.com/es/es/p/ekero-sillon-kimstad-negro-00406279/,
+MELLTORP / NILSOVE,"
+        Mesa y dos sillas,
+          ",188€,https://www.ikea.com/es/es/p/melltorp-nilsove-mesa-dos-sillas-blanco-ratan-blanco-s29297294/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+RÖNNINGE,"
+        Silla",79€,https://www.ikea.com/es/es/p/ronninge-silla-negro-10430863/,
+LIDHULT,"
+        Sillón",699€,https://www.ikea.com/es/es/p/lidhult-sillon-grann-bomstad-marron-dorado-s09257005/,
+GAMLARED / LERHAMN,"
+        Mesa y dos sillas",159€,https://www.ikea.com/es/es/p/gamlared-lerhamn-mesa-dos-sillas-tinte-envejecido-claro-negro-marron-vittaryd-beige-s79221169/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+KOARP,"
+        Sillón",199€,https://www.ikea.com/es/es/p/koarp-sillon-farsta-marron-oscuro-negro-s59221698/,"
+          Solo o con otros muebles, colorido o discreto, este sofá siempre resulta confortable e incorpora un práctico bolsillo de almacenaje oculto.
+          "
+LIDHULT,"
+        Chaiselongue",1.100€,https://www.ikea.com/es/es/p/lidhult-chaiselongue-grann-bomstad-marron-dorado-s79266153/,
+DELAKTIG,"
+        Sillón",499€,https://www.ikea.com/es/es/p/delaktig-sillon-gunnared-gris-s49289448/,"
+          Si quieres un sillón clásico, esta es tu combinación. Pero si te apetece sacar tu lado rebelde, cambia las fundas a los cojines de asiento según tu gusto y personaliza el sillón con reposabrazos y cojines para el cuello.
+          "
+IKEA PS 2012 / JANINGE,"
+        Mesa con 4 sillas,
+          ","268,96€",https://www.ikea.com/es/es/p/ikea-ps-2012-janinge-mesa-con-4-sillas-bambu-blanco-s69161482/,
+INGATORP / INGATORP,"
+        Mesa con 4 sillas,
+          ",655€,https://www.ikea.com/es/es/p/ingatorp-ingatorp-mesa-con-4-sillas-blanco-s89252202/,"
+          En esta mesa redonda todo el mundo se ve, y puedes hacerla más grande añadiendo una extensión. Es de estilo clásico y presenta detalles que le dan un toque especial, como las patas torneadas.
+          "
+TINGBY / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","388,94€",https://www.ikea.com/es/es/p/tingby-leifarne-mesa-6-sillas-blanco-rosa-s69221198/,
+SVENBERTIL,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/svenbertil-silla-negro-broringe-cromado-s69197693/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+STOCKHOLM 2017,"
+        Juego cojines para sillón",100€,https://www.ikea.com/es/es/p/stockholm-2017-juego-cojines-sillon-sandbacka-gris-oscuro-70344508/,
+NILS,"
+        Estructura taburete","29,99€",https://www.ikea.com/es/es/p/nils-estructura-taburete-negro-20140127/,
+DELAKTIG,"
+        Sillón +mesa auxiliar +lámpara",521€,https://www.ikea.com/es/es/p/delaktig-sillon-mesa-auxiliar-lampara-gunnared-gris-s49289453/,
+GLIVARP / NISSE,"
+        Mesa y dos sillas,
+          ",239€,https://www.ikea.com/es/es/p/glivarp-nisse-mesa-dos-sillas-transparente-cromado-blanco-s29197379/,
+ÖVRARYD / JANINGE,"
+        Mesa con 4 sillas,
+          ","238,96€",https://www.ikea.com/es/es/p/ovraryd-janinge-mesa-con-4-sillas-blanco-bambu-blanco-s79161575/,
+HENRIKSDAL,"
+        Tapicería taburete alto",20€,https://www.ikea.com/es/es/p/henriksdal-tapiceria-taburete-alto-lingbo-multicolor-60437923/,
+OPPEBY/BACKARYD / TOBIAS,"
+        Mesa y 6 sillas,
+          ",503€,https://www.ikea.com/es/es/p/oppeby-backaryd-tobias-mesa-6-sillas-blanco-cromado-transparente-s99197413/,
+EKEDALEN / EKEDALEN,"
+        Mesa con 4 sillas,
+          ",369€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-con-4-sillas-roble-orrsta-gris-claro-s79296862/,
+EKEDALEN / ODGER,"
+        Mesa con 4 sillas,
+          ",445€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-con-4-sillas-roble-azul-s29221416/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+MARTIN,"
+        Estructura de silla","7,49€",https://www.ikea.com/es/es/p/martin-estructura-silla-negro-40354221/,
+EKEDALEN / ODGER,"
+        Mesa con 4 sillas,
+          ",445€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-con-4-sillas-blanco-azul-s69221344/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+VEBERÖD,"
+        Banco,
+          ",119€,https://www.ikea.com/es/es/p/veberod-banco-natural-50343331/,"
+          Es cuestión de honestidad. Hemos dejado visibles las marcas naturales del material y las que son resultado del proceso de fabricación para que cada mueble luzca un aspecto único. Además, VEBERÖD es versátil y se puede mover de sitio fácilmente.
+          "
+GRÖNLID,"
+        Chaiselongue",490€,https://www.ikea.com/es/es/p/gronlid-chaiselongue-kimstad-marron-oscuro-s39256599/,
+NORRÅKER / NORRARYD,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-con-4-sillas-abedul-blanco-s39297236/,"
+          La sencillez del diseño escandinavo se hace presente en cada mesa, y el abedul muestra variaciones naturales en el color y la veta. Está aprobada para su uso en espacios públicos, así que aguanta las embestidas de los niños más inquietos.
+          "
+STORNÄS / KAUSTBY,"
+        Mesa con 4 sillas,
+          ",499€,https://www.ikea.com/es/es/p/stornas-kaustby-mesa-con-4-sillas-tint-envj-s49885640/,
+GLIVARP / BERNHARD,"
+        Mesa con 4 sillas,
+          ",845€,https://www.ikea.com/es/es/p/glivarp-bernhard-mesa-con-4-sillas-transparente-mjuk-blanco-s59259827/,"
+          El tablero de cristal deja pasar la luz permitiendo que la mesa se funda con el espacio, incluso si es pequeño. Además, como no es muy pesada, se puede extender cómodamente para los invitados y el vidrio templado resulta fácil de limpiar.
+          "
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-negro-orrsta-negro-azul-s09297073/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+NORDEN / RÅSKOG,"
+        Mesa y 2 taburetes,
+          ","218,98€",https://www.ikea.com/es/es/p/norden-raskog-mesa-2-taburetes-abedul-negro-s19285866/,
+LEIFARNE,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/leifarne-silla-azul-claro-broringe-cromado-s89127802/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+HENRIKSDAL,"
+        Silla+funda larga",64€,https://www.ikea.com/es/es/p/henriksdal-silla-funda-larga-marron-oscuro-blekinge-blanco-s19220846/,
+TINGBY / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","388,94€",https://www.ikea.com/es/es/p/tingby-leifarne-mesa-6-sillas-blanco-blanco-s59252190/,
+STORNÄS / KAUSTBY,"
+        Mesa y 6 sillas,
+          ",649€,https://www.ikea.com/es/es/p/stornas-kaustby-mesa-6-sillas-negro-marron-s99885666/,
+EKEDALEN / TOBIAS,"
+        Mesa y 6 sillas,
+          ",553€,https://www.ikea.com/es/es/p/ekedalen-tobias-mesa-6-sillas-marron-oscuro-azul-s89221319/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+SKOGSTA / SAKARIAS,"
+        Mesa con 4 sillas,
+          ",965€,https://www.ikea.com/es/es/p/skogsta-sakarias-mesa-con-4-sillas-acacia-negro-sporda-gris-oscuro-s59297160/,
+DELAKTIG,"
+        Chaiselongue mesa aux lámpara",604€,https://www.ikea.com/es/es/p/delaktig-chaiselongue-mesa-aux-lampara-gunnared-gris-s39289477/,
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-tinte-marron-mjuk-blanco-s59290130/,
+MELLTORP / JANINGE,"
+        Mesa con 4 sillas,
+          ","159,96€",https://www.ikea.com/es/es/p/melltorp-janinge-mesa-con-4-sillas-blanco-amarillo-s39161488/,"
+          Esta mesa se adapta a todo tipo de necesidades y gustos, desde los fans de lo minimalista hasta las familias que necesitan resistencia y durabilidad. Ponla en la cocina o el comedor. Su diseño sencillo combina bien con muchos estilos.
+          "
+INGATORP / HENRIKSDAL,"
+        Mesa con 4 sillas,
+          ",515€,https://www.ikea.com/es/es/p/ingatorp-henriksdal-mesa-con-4-sillas-blanco-blekinge-blanco-s09161569/,
+LISABO / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/lisabo-ronninge-mesa-con-4-sillas-chapa-fresno-verde-s39297123/,
+INGATORP / INGOLF,"
+        Mesa con 4 sillas,
+          ",557€,https://www.ikea.com/es/es/p/ingatorp-ingolf-mesa-con-4-sillas-negro-nolhaga-gris-beige-s59254170/,
+BERNHARD,"
+        Silla",149€,https://www.ikea.com/es/es/p/bernhard-silla-cromado-kavat-mjuk-blanco-20153068/,"
+          Presenta una estructura cromada y un asiento acolchado y mullido, forrado de piel flor duradera. Resulta muy cómoda, apenas requiere mantenimiento y conserva su belleza con el paso de los años.
+          "
+KIVIK,"
+        Chaiselongue",599€,https://www.ikea.com/es/es/p/kivik-chaiselongue-grann-bomstad-negro-10198604/,
+HENRIKSDAL,"
+        Tapicería taburete alto",20€,https://www.ikea.com/es/es/p/henriksdal-tapiceria-taburete-alto-nykvarn-rojo-oscuro-40438570/,
+EKEDALEN / LEIFARNE,"
+        Mesa y 6 sillas,
+          ","438,94€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-6-sillas-roble-blanco-s39221425/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+EKEDALEN / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","328,96€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-con-4-sillas-blanco-azul-claro-s29221336/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+LEIFARNE,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/leifarne-silla-azul-claro-broringe-blanco-s09197709/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+INGATORP / INGATORP,"
+        Mesa con 4 sillas,
+          ",655€,https://www.ikea.com/es/es/p/ingatorp-ingatorp-mesa-con-4-sillas-negro-s09252197/,"
+          En esta mesa redonda todo el mundo se ve, y puedes hacerla más grande añadiendo una extensión. Es de estilo clásico y presenta detalles que le dan un toque especial, como las patas torneadas.
+          "
+BERNHARD,"
+        Silla",149€,https://www.ikea.com/es/es/p/bernhard-silla-cromado-mjuk-rojo-oscuro-70404823/,
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-abedul-orrsta-negro-azul-s99265261/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
+OPPEBY/BACKARYD / JANINGE,"
+        Mesa y 6 sillas,
+          ","328,94€",https://www.ikea.com/es/es/p/oppeby-backaryd-janinge-mesa-6-sillas-blanco-amarillo-s09229687/,
+VANGSTA / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","258,96€",https://www.ikea.com/es/es/p/vangsta-leifarne-mesa-con-4-sillas-blanco-azul-claro-s79221206/,
+NORDEN / IDOLF,"
+        Mesa con 4 sillas,
+          ",385€,https://www.ikea.com/es/es/p/norden-idolf-mesa-con-4-sillas-abedul-negro-s59229835/,
+EKEDALEN / ODGER,"
+        Mesa y 6 sillas,
+          ",613€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-6-sillas-marron-oscuro-blanco-beige-s49221321/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+EKEDALEN / BERNHARD,"
+        Mesa y 6 sillas,
+          ",1.093€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-6-sillas-blanco-mjuk-marron-dorado-s29280689/,
+JÄRVFJÄLLET,"
+        Reposabrazos 2",30€,https://www.ikea.com/es/es/p/jarvfjallet-reposabrazos-2-blanco-20429430/,
+NORRÅKER / NORRARYD,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-con-4-sillas-abedul-negro-s29297232/,"
+          La sencillez del diseño escandinavo se hace presente en cada mesa, y el abedul muestra variaciones naturales en el color y la veta. Está aprobada para su uso en espacios públicos, así que aguanta las embestidas de los niños más inquietos.
+          "
+HENRIKSDAL,"
+        Tapicería taburete alto",20€,https://www.ikea.com/es/es/p/henriksdal-tapiceria-taburete-alto-djuparp-verde-oscuro-50437909/,
+VIMLE,"
+        Chaiselongue",490€,https://www.ikea.com/es/es/p/vimle-chaiselongue-farsta-marron-oscuro-s59298334/,"
+          La serie de sofás VIMLE ofrece módulos que puedes combinar a tu gusto para personalizar la solución. Así, a medida que crezca la familia o la casa, puedes completar el sofá para que se adapte a las novedades.
+          "
+HENRIKSDAL,"
+        Taburete alto,
+          ",149€,https://www.ikea.com/es/es/p/henriksdal-taburete-alto-negro-marron-glose-negro-90319918/,
+RYGGESTAD/GREBBESTAD / STEFAN,"
+        Mesa con 4 sillas,
+          ",229€,https://www.ikea.com/es/es/p/ryggestad-grebbestad-stefan-mesa-con-4-sillas-negro-negro-marron-s99047249/,
+DOCKSTA / JANINGE,"
+        Mesa con 4 sillas,
+          ","238,96€",https://www.ikea.com/es/es/p/docksta-janinge-mesa-con-4-sillas-blanco-amarillo-s89161481/,
+INGATORP / INGATORP,"
+        Mesa con 4 sillas,
+          ",645€,https://www.ikea.com/es/es/p/ingatorp-ingatorp-mesa-con-4-sillas-negro-s09240779/,
+MÖRBYLÅNGA / VOLFGANG,"
+        Mesa con 4 sillas,
+          ",699€,https://www.ikea.com/es/es/p/morbylanga-volfgang-mesa-con-4-sillas-marron-gunnared-gris-s89259840/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+VANGSTA / TEODORES,"
+        Mesa y dos sillas,
+          ",99€,https://www.ikea.com/es/es/p/vangsta-teodores-mesa-dos-sillas-blanco-naranja-claro-s09252178/,
+DOCKSTA / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","278,96€",https://www.ikea.com/es/es/p/docksta-leifarne-mesa-con-4-sillas-blanco-blanco-s39229799/,
+NORRÅKER / NORRÅKER,"
+        Mesa de bar+2 taburetes bar,
+          ",327€,https://www.ikea.com/es/es/p/norraker-norraker-mesa-bar-2-taburetes-bar-abedul-abedul-s19297275/,
+VANGSTA / JANINGE,"
+        Mesa y dos sillas,
+          ","118,98€",https://www.ikea.com/es/es/p/vangsta-janinge-mesa-dos-sillas-blanco-amarillo-s59221212/,
+EKEDALEN / ODGER,"
+        Mesa y 6 sillas,
+          ",613€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-6-sillas-abedul-azul-s09221479/,
+SVENBERTIL,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/svenbertil-silla-negro-broringe-negro-s99197696/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+SVENBERTIL,"
+        Silla","39,99€",https://www.ikea.com/es/es/p/svenbertil-silla-negro-broringe-blanco-s79197697/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+LISABO / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/lisabo-ronninge-mesa-con-4-sillas-chapa-fresno-abedul-s39297118/,
+TORSBY / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","284,96€",https://www.ikea.com/es/es/p/torsby-leifarne-mesa-con-4-sillas-alto-brillo-blanco-rosa-s89219533/,
+RYDEBÄCK/BACKARYD / JANINGE,"
+        Mesa con 4 sillas,
+          ","198,96€",https://www.ikea.com/es/es/p/rydeback-backaryd-janinge-mesa-con-4-sillas-blanco-blanco-s69161552/,
+NORDEN / IDOLF,"
+        Mesa con 4 sillas,
+          ",385€,https://www.ikea.com/es/es/p/norden-idolf-mesa-con-4-sillas-abedul-negro-s19161253/,
+VANGSTA / TEODORES,"
+        Mesa y dos sillas",99€,https://www.ikea.com/es/es/p/vangsta-teodores-mesa-dos-sillas-blanco-naranja-claro-s19296898/,
+GLIVARP / TOBIAS,"
+        Mesa y dos sillas,
+          ",317€,https://www.ikea.com/es/es/p/glivarp-tobias-mesa-dos-sillas-transparente-cromado-transparente-s99197385/,
+LERHAMN / STEFAN,"
+        Mesa y dos sillas,
+          ",109€,https://www.ikea.com/es/es/p/lerhamn-stefan-mesa-dos-sillas-negro-marron-negro-marron-s99296922/,"
+          Un conjunto sencillo y sólido, ideal para zonas de comedor pequeñas. La madera maciza de pino resiste bien el paso del tiempo y las comidas y actividades de la familia.
+          "
+RYGGESTAD/GREBBESTAD / IVAR,"
+        Mesa con 4 sillas,
+          ",229€,https://www.ikea.com/es/es/p/ryggestad-grebbestad-ivar-mesa-con-4-sillas-negro-pino-s79229820/,
+EKEDALEN / ODGER,"
+        Mesa y 6 sillas,
+          ",613€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-6-sillas-marron-oscuro-blanco-beige-s79229212/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+EKEDALEN,"
+        Silla",60€,https://www.ikea.com/es/es/p/ekedalen-silla-marron-gunnared-verde-oscuro-s19265279/,"
+          Gracias al asiento tapizado y al diseño curvo del respaldo, no querrás levantarte. Elige entre diferentes fundas, mételas en la lavadora cuando haga falta y, si quieres, cómpralas en más de un color para ir variando.
+          "
 EKEDALEN / LEIFARNE,"
         Mesa y dos sillas,
-          ","178,98€"
-EKEDALEN / BERNHARD,"
+          ","178,98€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-dos-sillas-blanco-rosa-s99221328/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+MÖRBYLÅNGA / BERNHARD,"
         Mesa con 4 sillas,
-          ",765€
-EKEDALEN / ODGER,"
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-marron-mjuk-blanco-s59246043/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+MÖRBYLÅNGA / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","658,96€",https://www.ikea.com/es/es/p/morbylanga-leifarne-mesa-con-4-sillas-marron-blanco-s19246097/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+EKEDALEN / EKEDALEN,"
         Mesa y dos sillas,
-          ",237€
+          ",199€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-dos-sillas-marron-oscuro-orrsta-gris-claro-s29296874/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+OPPEBY/BACKARYD / JANINGE,"
+        Mesa y 6 sillas,
+          ","328,94€",https://www.ikea.com/es/es/p/oppeby-backaryd-janinge-mesa-6-sillas-blanco-amarillo-s89103245/,
+NORRÅKER / RÖNNINGE,"
+        Mesa y dos sillas,
+          ",237€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-dos-sillas-abedul-abedul-s69297249/,
+VANGSTA / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","258,96€",https://www.ikea.com/es/es/p/vangsta-leifarne-mesa-con-4-sillas-blanco-rosa-s49221203/,
 OPPEBY/BACKARYD / JANINGE,"
         Mesa con 4 sillas,
-          ","268,96€"
+          ","268,96€",https://www.ikea.com/es/es/p/oppeby-backaryd-janinge-mesa-con-4-sillas-blanco-blanco-s39161544/,
+LEIFARNE,"
+        Sillón",59€,https://www.ikea.com/es/es/p/leifarne-sillon-azul-claro-dietmar-negro-s79197720/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+RYGGESTAD/GREBBESTAD / STEFAN,"
+        Mesa con 4 sillas,
+          ",229€,https://www.ikea.com/es/es/p/ryggestad-grebbestad-stefan-mesa-con-4-sillas-negro-negro-marron-s99229819/,
+STORNÄS / KAUSTBY,"
+        Mesa con 4 sillas,
+          ",499€,https://www.ikea.com/es/es/p/stornas-kaustby-mesa-con-4-sillas-negro-marron-s79898066/,
+BRORINGE,"
+        Soporte",15€,https://www.ikea.com/es/es/p/broringe-soporte-negro-30339900/,
+EKEDALEN / IDOLF,"
+        Mesa con 4 sillas,
+          ",405€,https://www.ikea.com/es/es/p/ekedalen-idolf-mesa-con-4-sillas-abedul-negro-s09221460/,
+EKEDALEN / BERNHARD,"
+        Mesa y 6 sillas,
+          ",1.093€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-6-sillas-marron-mjuk-blanco-s69229217/,
+LISABO / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/lisabo-ronninge-mesa-con-4-sillas-negro-negro-s79297121/,"
+          Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.
+          "
+LISABO / ODGER,"
+        Mesa con 4 sillas,
+          ",375€,https://www.ikea.com/es/es/p/lisabo-odger-mesa-con-4-sillas-negro-beige-s09259702/,"
+          Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.
+          "
+SVENBERTIL,"
+        Sillón",59€,https://www.ikea.com/es/es/p/svenbertil-sillon-negro-dietmar-negro-s59197698/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+EKEDALEN / JANINGE,"
+        Mesa y dos sillas,
+          ","158,98€",https://www.ikea.com/es/es/p/ekedalen-janinge-mesa-dos-sillas-abedul-blanco-s79229721/,
+TORSBY / BERNHARD,"
+        Mesa con 4 sillas,
+          ",721€,https://www.ikea.com/es/es/p/torsby-bernhard-mesa-con-4-sillas-alto-brillo-blanco-kavat-blanco-s59161562/,
+EKEDALEN / EKEDALEN,"
+        Mesa y dos sillas,
+          ",199€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-dos-sillas-abedul-orrsta-gris-claro-s89296871/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+DOCKSTA / JANINGE,"
+        Mesa con 4 sillas,
+          ","238,96€",https://www.ikea.com/es/es/p/docksta-janinge-mesa-con-4-sillas-blanco-amarillo-s59229798/,
+EKEDALEN / ODGER,"
+        Mesa y dos sillas,
+          ",237€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-dos-sillas-roble-blanco-beige-s49221401/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-tinte-marron-mjuk-marron-oscuro-s29290122/,
+LEIFARNE,"
+        Sillón",59€,https://www.ikea.com/es/es/p/leifarne-sillon-azul-claro-dietmar-cromado-s19127805/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+NORRÅKER / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-con-4-sillas-abedul-verde-s69297230/,
+LISABO / IDOLF,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/lisabo-idolf-mesa-con-4-sillas-chapa-fresno-negro-s99161485/,"
+          Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.
+          "
+NORRÅKER / NORRARYD,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-con-4-sillas-abedul-rojo-s89297234/,"
+          La sencillez del diseño escandinavo se hace presente en cada mesa, y el abedul muestra variaciones naturales en el color y la veta. Está aprobada para su uso en espacios públicos, así que aguanta las embestidas de los niños más inquietos.
+          "
+EKEDALEN / ODGER,"
+        Mesa con 4 sillas,
+          ",445€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-con-4-sillas-marron-oscuro-azul-s69221297/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+EKEDALEN / ODGER,"
+        Mesa con 4 sillas,
+          ",445€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-con-4-sillas-marron-blanco-beige-s69221438/,
+NORRÅKER / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-con-4-sillas-abedul-abedul-s89297229/,
+LISABO / LEIFARNE,"
+        Mesa con 4 sillas,
+          ",335€,https://www.ikea.com/es/es/p/lisabo-leifarne-mesa-con-4-sillas-chapa-fresno-rosa-s59219539/,
+VÄSTANBY/VÄSTANÅ / BERNHARD,"
+        Mesa con 4 sillas,
+          ",895€,https://www.ikea.com/es/es/p/vastanby-vastana-bernhard-mesa-con-4-sillas-marron-oscuro-kavat-marron-oscuro-s89161565/,
+EKEDALEN / BERNHARD,"
+        Mesa y 6 sillas,
+          ",1.093€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-6-sillas-roble-mjuk-blanco-s89229216/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+LEIFARNE,"
+        Sillón",59€,https://www.ikea.com/es/es/p/leifarne-sillon-azul-claro-dietmar-blanco-s99259750/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+EKEDALEN / BERNHARD,"
+        Mesa con 4 sillas,
+          ",765€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-con-4-sillas-marron-oscuro-mjuk-rojo-oscuro-s29280707/,
+NORRÅKER / RÖNNINGE,"
+        Mesa con 4 sillas,
+          ",415€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-con-4-sillas-abedul-negro-s49297231/,
+EKEDALEN / BERNHARD,"
+        Mesa y 6 sillas,
+          ",1.093€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-6-sillas-roble-mjuk-blanco-s09221422/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+SVENBERTIL,"
+        Sillón",59€,https://www.ikea.com/es/es/p/svenbertil-sillon-negro-dietmar-cromado-s19197695/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+DIETMAR,"
+        Estructura inferior silla+reposabr","34,01€",https://www.ikea.com/es/es/p/dietmar-estructura-inferior-silla-reposabr-blanco-50393000/,
+DIETMAR,"
+        Estructura inferior silla+reposabr","34,01€",https://www.ikea.com/es/es/p/dietmar-estructura-inferior-silla-reposabr-negro-90339898/,
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-marron-mjuk-marron-oscuro-s09246088/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-mjuk-marron-dorado-s89280714/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+MÖRBYLÅNGA / VOLFGANG,"
+        Mesa con 4 sillas,
+          ",699€,https://www.ikea.com/es/es/p/morbylanga-volfgang-mesa-con-4-sillas-marron-bomstad-negro-s69251821/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+NORRÅKER / RÖNNINGE,"
+        Mesa y dos sillas,
+          ",237€,https://www.ikea.com/es/es/p/norraker-ronninge-mesa-dos-sillas-abedul-negro-s09297252/,
+DIETMAR,"
+        Estructura inferior silla+reposabr","34,01€",https://www.ikea.com/es/es/p/dietmar-estructura-inferior-silla-reposabr-cromado-70288630/,
+STORNÄS / HENRIKSDAL,"
+        Mesa con 4 sillas,
+          ",555€,https://www.ikea.com/es/es/p/stornas-henriksdal-mesa-con-4-sillas-negro-marron-blekinge-blanco-s49296910/,
+TORSBY / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","284,96€",https://www.ikea.com/es/es/p/torsby-leifarne-mesa-con-4-sillas-alto-brillo-blanco-azul-claro-s99161560/,
+EKEDALEN / IDOLF,"
+        Mesa con 4 sillas,
+          ",405€,https://www.ikea.com/es/es/p/ekedalen-idolf-mesa-con-4-sillas-abedul-negro-s19229837/,
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-tinte-marron-mjuk-rojo-oscuro-s69290115/,
+RYGGESTAD/GREBBESTAD / IVAR,"
+        Mesa con 4 sillas,
+          ",229€,https://www.ikea.com/es/es/p/ryggestad-grebbestad-ivar-mesa-con-4-sillas-negro-pino-s69102628/,
+EKEDALEN / ODGER,"
+        Mesa y dos sillas,
+          ",237€,https://www.ikea.com/es/es/p/ekedalen-odger-mesa-dos-sillas-marron-oscuro-marron-s69221283/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-tinte-marron-mjuk-rojo-oscuro-s69280710/,
+EKEDALEN / LEIFARNE,"
+        Mesa y dos sillas,
+          ","178,98€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-dos-sillas-roble-blanco-s19221394/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+EKEDALEN / SVENBERTIL,"
+        Mesa con 4 sillas,
+          ","328,96€",https://www.ikea.com/es/es/p/ekedalen-svenbertil-mesa-con-4-sillas-roble-negro-s99221413/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+LISABO / SVENBERTIL,"
+        Mesa con 4 sillas,
+          ","258,96€",https://www.ikea.com/es/es/p/lisabo-svenbertil-mesa-con-4-sillas-negro-negro-s49252181/,"
+          Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.
+          "
+EKEDALEN / EKEDALEN,"
+        Mesa y dos sillas,
+          ",199€,https://www.ikea.com/es/es/p/ekedalen-ekedalen-mesa-dos-sillas-marron-orrsta-gris-claro-s19296879/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+NORRÅKER / NORRARYD,"
+        Mesa y dos sillas,
+          ",197€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-dos-sillas-abedul-blanco-s69297268/,
+EKEDALEN / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","328,96€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-con-4-sillas-marron-oscuro-blanco-s49221298/,"
+          Una mesa duradera ideal para grandes celebraciones. Basta una persona para extenderla y deja mucho sitio para poner sillas, ya que las patas siempre quedan en las esquinas.
+          "
+VÄSTANBY/VÄSTANÅ / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","458,96€",https://www.ikea.com/es/es/p/vastanby-vastana-leifarne-mesa-con-4-sillas-marron-oscuro-blanco-s69130612/,
+EKEDALEN / JANINGE,"
+        Mesa y dos sillas,
+          ","158,98€",https://www.ikea.com/es/es/p/ekedalen-janinge-mesa-dos-sillas-abedul-blanco-s09221455/,
+SVENBERTIL,"
+        Sillón",59€,https://www.ikea.com/es/es/p/svenbertil-sillon-negro-dietmar-blanco-s69259742/,"
+          Elige tu estructura inferior y asiento favoritos, o crea una divertida combinación alrededor de la mesa. Puedes obtener hasta 30 combinaciones de sillas diferentes. Resulta muy cómoda gracias a la forma del asiento y el respaldo.
+          "
+EKEDALEN / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","328,96€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-con-4-sillas-abedul-blanco-s39229841/,
+EKEDALEN / BERNHARD,"
+        Mesa con 4 sillas,
+          ",765€,https://www.ikea.com/es/es/p/ekedalen-bernhard-mesa-con-4-sillas-blanco-mjuk-marron-dorado-s89280766/,
+OPPEBY/BACKARYD / JANINGE,"
+        Mesa con 4 sillas,
+          ","268,96€",https://www.ikea.com/es/es/p/oppeby-backaryd-janinge-mesa-con-4-sillas-blanco-blanco-s49229826/,
+VÄSTANBY/VÄSTANÅ / BERNHARD,"
+        Mesa con 4 sillas,
+          ",895€,https://www.ikea.com/es/es/p/vastanby-vastana-bernhard-mesa-con-4-sillas-marron-oscuro-kavat-blanco-s19103183/,
+OPPEBY/BACKARYD / JANINGE,"
+        Mesa con 4 sillas,
+          ","268,96€",https://www.ikea.com/es/es/p/oppeby-backaryd-janinge-mesa-con-4-sillas-blanco-amarillo-s59161543/,
+DOCKSTA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",715€,https://www.ikea.com/es/es/p/docksta-bernhard-mesa-con-4-sillas-blanco-blanco-s29161479/,
+EKEDALEN / LEIFARNE,"
+        Mesa y dos sillas,
+          ","178,98€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-dos-sillas-marron-blanco-s99221432/,
+EKEDALEN / LEIFARNE,"
+        Mesa con 4 sillas,
+          ","328,96€",https://www.ikea.com/es/es/p/ekedalen-leifarne-mesa-con-4-sillas-abedul-blanco-s49221463/,
+MÖRBYLÅNGA / BERNHARD,"
+        Mesa con 4 sillas,
+          ",1.095€,https://www.ikea.com/es/es/p/morbylanga-bernhard-mesa-con-4-sillas-chapa-roble-marron-s09280713/,"
+          La capa superior de roble macizo aporta a cada mesa un carácter único del que te sentirás orgulloso y con el que vivirás mucho tiempo. El aspecto de tabla se consigue con técnicas de producción modernas que emplean menos madera.
+          "
+NORRÅKER / NORRARYD,"
+        Mesa y dos sillas,
+          ",197€,https://www.ikea.com/es/es/p/norraker-norraryd-mesa-dos-sillas-abedul-rojo-s59297264/,
